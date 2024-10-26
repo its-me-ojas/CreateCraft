@@ -1,20 +1,717 @@
-[00:01:47] [Server thread/INFO]: [Not Secure] <whitehairguy> helo?
-[00:03:20] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9810, l='ServerLevel[world]', x=-237.70, y=37.20, z=-649.70] died: Pipeline Sentry was slain by whitehairguy
-[00:04:18] [Server thread/INFO]: Named entity class_1545['Prime Pipeline Sentry'/9730, l='ServerLevel[world]', x=-233.70, y=35.01, z=-652.70] died: Prime Pipeline Sentry was slain by whitehairguy
-[00:04:31] [Server thread/INFO]: Named entity class_1545['Prime Pipeline Sentry'/9729, l='ServerLevel[world]', x=-235.70, y=36.00, z=-653.70] died: Prime Pipeline Sentry was slain by whitehairguy
-[00:06:06] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9735, l='ServerLevel[world]', x=-231.70, y=34.00, z=-655.30] died: Pipeline Sentry was slain by whitehairguy
-[00:06:18] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:the_nether] at class_2338{x=-231, y=36, z=-661} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
-[00:06:57] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9741, l='ServerLevel[world]', x=-229.30, y=35.20, z=-671.70] died: Pipeline Sentry was slain by whitehairguy
-[00:07:03] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9740, l='ServerLevel[world]', x=-231.70, y=34.83, z=-680.57] died: Pipeline Sentry was slain by whitehairguy
-[00:07:54] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9763, l='ServerLevel[world]', x=-242.19, y=34.77, z=-673.31] died: Pipeline Sentry was slain by whitehairguy
-[00:08:06] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9817, l='ServerLevel[world]', x=-257.70, y=36.00, z=-673.30] died: Pipeline Sentry was slain by whitehairguy
-[00:08:09] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9813, l='ServerLevel[world]', x=-256.50, y=35.23, z=-671.30] died: Pipeline Sentry was slain by whitehairguy
-[00:11:01] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:the_nether] at class_2338{x=-231, y=36, z=-661} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
-[00:12:22] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9834, l='ServerLevel[world]', x=-241.06, y=34.48, z=-696.67] died: Pipeline Sentry was slain by whitehairguy
-[00:12:26] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9832, l='ServerLevel[world]', x=-242.19, y=34.75, z=-696.70] died: Pipeline Sentry was slain by whitehairguy
-[00:12:31] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/9833, l='ServerLevel[world]', x=-249.32, y=34.25, z=-694.30] died: Pipeline Sentry was slain by whitehairguy
-[00:13:06] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:the_nether] at class_2338{x=-231, y=36, z=-708} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
-[00:16:18] [Netty Server IO #27/ERROR]: Exception occurred in netty pipeline
+[00:50:08] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[00:50:08] [ForkJoinPool-1-worker-19/WARN]: Mod design_decor uses the version 0.4.0b_fabric+1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0b_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:50:08] [ForkJoinPool-1-worker-15/WARN]: Mod creategoggles uses the version 0.5.5.g which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'g'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:50:08] [ForkJoinPool-1-worker-3/WARN]: Mod ctov uses the version 3.4.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:50:09] [main/WARN]: Warnings were found!
+ - Mod 'Create Enchantment Industry' (create_enchantment_industry) 1.2.16 recommends version 0.5.1-f-build.1335+mc1.20.1 of mod 'Create' (create), but only the wrong version is present: 0.5.1-f-build.1417+mc1.20.1!
+	 - You should install version 0.5.1-f-build.1335+mc1.20.1 of mod 'Create' (create) for the optimal experience.
+[00:50:09] [main/INFO]: Loading 170 mods:
+	- accessories 1.0.0-beta.41+1.20.1
+	   |-- io_wispforest_endec 0.1.8
+	   |-- io_wispforest_endec_gson 0.1.5
+	   \-- io_wispforest_endec_netty 0.1.4
+	- architectury 9.2.14
+	- balm-fabric 7.3.9
+	   \-- kuma_api 20.1.8
+	- betterdeserttemples 1.20-Fabric-3.0.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.20-Fabric-4.0.4
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betterjungletemples 1.20-Fabric-2.0.5
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- betterstrongholds 1.20-Fabric-4.0.3
+	- betterwitchhuts 1.20-Fabric-3.0.3
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- coroutil 1.20.1-1.3.7
+	   \-- forgeconfigapiport 8.0.0
+	- craftingtweaks 18.2.5
+	- create 0.5.1-f-build.1417+mc1.20.1
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   |-- flywheel 0.6.10-2
+	   |-- milk 1.2.60
+	   |    \-- dripstone_fluid_lib 3.0.2
+	   |-- porting_lib_brewing 2.3.2+1.20.1
+	   |-- porting_lib_client_events 2.3.2+1.20.1
+	   |-- porting_lib_models 2.3.2+1.20.1
+	   |-- porting_lib_obj_loader 2.3.2+1.20.1
+	   |-- porting_lib_tags 3.0
+	   |-- reach-entity-attributes 2.4.0
+	   \-- registrate-fabric 1.3.62-MC1.20.1
+	        |-- porting_lib_data 2.1.1090+1.20
+	        \-- porting_lib_model_generators 2.1.1090+1.20
+	             \-- porting_lib_model_materials 2.1.1090+1.20
+	- create_enchantment_industry 1.2.16
+	   \-- create_dragon_lib 1.4.2
+	- create_structures 1.1.0
+	- createaddition 1.2.4
+	- createbigcannons 5.5.1+mc.1.20.1-fabric
+	   \-- ritchiesprojectilelib 2.0.0-dev+mc.1.20.1-fabric-build.182
+	        |-- forgeconfigapiport 8.0.0
+	        \-- porting_lib_utility 2.1.1127+1.20
+	             \-- porting_lib_gametest 2.1.1127+1.20
+	- createdeco 2.0.2-1.20.1-fabric
+	- createfood 1.1.4
+	- creategoggles 0.5.5.g
+	- ctov 3.4.9a
+	- design_decor 0.4.0b_fabric+1.20.1
+	- endrem 5.2.4
+	- explorify 1.6.2
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.12.3+kotlin.2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+	- fabricloader 0.16.5
+	   \-- mixinextras 0.4.1
+	- farmersdelight 1.20.1-2.1.6+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_accessors 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_base 2.3.4+1.20.1
+	   |    |-- porting_lib_attributes 2.3.4+1.20.1
+	   |    |-- porting_lib_common 2.3.4+1.20.1
+	   |    |-- porting_lib_core 2.3.4+1.20.1
+	   |    |-- porting_lib_entity 2.3.4+1.20.1
+	   |    |-- porting_lib_extensions 2.3.4+1.20.1
+	   |    |-- porting_lib_fluids 2.3.4+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.4+1.20.1
+	   |    |-- porting_lib_transfer 2.3.4+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_config 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_lazy_registration 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_loot 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_networking 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_recipe_book_categories 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   \-- porting_lib_tool_actions 2.3.4+1.20.1
+	        \-- porting_lib_core 2.3.4+1.20.1
+	- geckolib 4.4.9
+	   \-- com_eliotlash_mclib_mclib 20
+	- jade 11.12.0+fabric
+	- java 21
+	- jeed 1.20-2.2.1
+	- jei 15.20.0.105
+	- jeresources 1.4.0.238
+	- justenoughbreeding 1.4.1
+	- lithostitched 1.3.3
+	- lootr 0.7.33.81
+	- minecraft 1.20.1
+	- mr_ctov_createstructures 1.0
+	- mr_ctov_farmersdelightcompat 2.1
+	- railways 1.6.4+fabric-mc1.20.1
+	   \-- mm 2.3
+	- sliceanddice 3.3.1
+	- sophisticatedbackpacks 1.20.1-3.20.11.26
+	   |-- porting_lib_model_loader 2.3.2+1.20.1
+	   \-- team_reborn_energy 3.0.0
+	- sophisticatedcore 1.20.1-0.6.34.39
+	   \-- team_reborn_energy 3.0.0
+	- tclayer 3.8.1+beta.14
+	   |-- cardinal-components-base 5.2.2
+	   \-- cardinal-components-entity 5.2.2
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- universal-graves 3.0.3+1.20.1
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |-- placeholder-api 2.1.3+1.20.1
+	   |-- polymer-core 0.5.19+1.20.1
+	   |    |-- polymer-networking 0.5.19+1.20.1
+	   |    |    \-- polymer-common 0.5.19+1.20.1
+	   |    |         \-- packet_tweaker 0.4.0+1.19.4
+	   |    \-- polymer-registry-sync-manipulator 0.5.19+1.20.1
+	   |-- polymer-resource-pack 0.5.19+1.20.1
+	   |    \-- polymer-common 0.5.19+1.20.1
+	   |         \-- packet_tweaker 0.4.0+1.19.4
+	   |-- polymer-virtual-entity 0.5.19+1.20.1
+	   |    \-- polymer-common 0.5.19+1.20.1
+	   |         \-- packet_tweaker 0.4.0+1.19.4
+	   |-- predicate-api 0.2.1+1.20.1
+	   |-- server_translations_api 2.0.0+1.20
+	   |    \-- packet_tweaker 0.4.0+1.19.4
+	   \-- sgui 1.2.2+1.20
+	- watut 1.20.1-1.1.3
+	   \-- forgeconfigapiport 8.0.0
+	- yungsapi 1.20-Fabric-4.0.6
+	   \-- org_javassist_javassist 3.29.2-GA
+	- yungsbridges 1.20-Fabric-4.0.3
+	- yungscavebiomes 1.20.1-Fabric-2.0.0
+	- yungsextras 1.20-Fabric-4.0.3
+[00:50:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/raksh/Documents/GitHub/createServer/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:50:09] [main/INFO]: Compatibility level set to JAVA_17
+[00:50:09] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:50:10] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:50:10] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:50:10] [main/WARN]: Reference map 'JustEnoughResources-Fabric-1.20.1-refmap.json' for jeresources.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:50:10] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:50:10] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:50:10] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[00:50:10] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[00:50:10] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[00:50:10] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[00:50:11] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[00:50:11] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[00:50:11] [main/WARN]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev/latvian/mods/kubejs/recipe/RecipesEventJS)
+[00:50:11] [main/WARN]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[00:50:11] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[00:50:11] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[00:50:11] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:50:14] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zep000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:50:14] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bmd000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:50:16] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zfk000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:50:22] [main/INFO]: Registered Trinkets Reloaded Listeners
+[00:50:22] [main/INFO]: Reflections took 66 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:50:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:50:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[00:50:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:50:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[00:50:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:50:22] [main/INFO]: fabric loader environment detected
+[00:50:27] [main/INFO]: Create: Dragon Lib Create Dragon Lib has initialized, ready to support your Create add-ons!
+[00:50:27] [main/INFO]: CEI: hyper_experience_orb got converted to hyper_experience_orb
+[00:50:27] [main/INFO]: CEI: hyper_experience_bottle got converted to hyper_experience_bottle
+[00:50:27] [main/WARN]: Tried to register an overly high cookTime: 57600 > 32767! (air)
+[00:50:27] [main/INFO]: [STDOUT]: Create Crafts & Additions Initialized!
+[00:50:28] [main/INFO]: Registering items for Create Deco
+[00:50:28] [main/INFO]: Registering blocks for Create Deco
+[00:50:28] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:29] [main/INFO]: placard tooltip was null
+[00:50:30] [main/INFO]: Registering Items for createfood
+[00:50:30] [main/INFO]: Registering Blocks for createfood
+[00:50:30] [main/INFO]: Registering Fluids for createfood
+[00:50:30] [main/INFO]: CreateGoggles init
+[00:50:30] [main/INFO]: cgblocks
+[00:50:30] [main/INFO]: cgitems
+[00:50:30] [main/INFO]: cgblockentities
+[00:50:31] [main/INFO]: ResourceKey[minecraft:trim_pattern / creategoggles:goggle]
+[00:50:31] [main/INFO]: ResourceKey[minecraft:trim_material / creategoggles:goggle_material]
+[00:50:31] [main/INFO]: ResourceKey[minecraft:root / minecraft:trim_pattern]
+[00:50:31] [main/INFO]: CGItemModifiers register false
+[00:50:31] [main/INFO]: CreateGogglesFabric init
+[00:50:31] [main/INFO]: Create addon mod [Create: Design n' Decor] is loading alongside Create [0.5.1f]!
+[00:50:31] [main/INFO]: Create: Design n' Decor is accessing Porting Lib from the server!
+[00:50:32] [main/ERROR]: No data fixer registered for rotten_tomato
+[00:50:32] [main/INFO]: Definitely not up to no good
+[00:50:33] [main/INFO]: Registered bogey styles from railways
+[00:50:33] [main/INFO]: Registering data fixers
+[00:50:33] [main/INFO]: 0 Datafixer optimizations took 0 milliseconds
+[00:50:33] [main/INFO]: Registering tracks for Hex Casting
+[00:50:33] [main/INFO]: Registering tracks for Oh The Biomes You'll Go
+[00:50:33] [main/INFO]: Registering tracks for Blue Skies
+[00:50:33] [main/INFO]: Registering tracks for Twilight Forest
+[00:50:33] [main/INFO]: Registering tracks for Biomes O' Plenty
+[00:50:33] [main/INFO]: Registering tracks for Nature's Spirit
+[00:50:33] [main/INFO]: Registering tracks for Dreams and Desires
+[00:50:33] [main/INFO]: Registering tracks for Quark
+[00:50:33] [main/INFO]: Registering tracks for TerraFirmaCraft
+[00:50:33] [main/ERROR]: No data fixer registered for 
+[00:50:34] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:50:34] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:50:34] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[00:50:34] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[00:50:34] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[00:50:34] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:34] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:34] [main/INFO]: Reflections took 24 ms to scan 1 urls, producing 5 keys and 58 values
+[00:50:34] [main/INFO]: Reflections took 22 ms to scan 1 urls, producing 5 keys and 58 values
+[00:50:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:50:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:50:37] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[00:50:39] [Worker-Main-9/ERROR]: Couldn't load tag creategoggles:modifier/goggle_incompatible as it is missing following references: mekanism:mekasuit_helmet (from fabric)
+[00:50:39] [Worker-Main-9/ERROR]: Couldn't load tag design_decor:containers as it is missing following references: design_decor:red_container (from fabric), design_decor:blue_container (from fabric), design_decor:green_container (from fabric)
+[00:50:39] [Worker-Main-9/ERROR]: Couldn't load tag minecraft:trim_materialss as it is missing following references: creategoggles:goggle_material (from fabric)
+[00:50:39] [Worker-Main-18/ERROR]: Couldn't load tag wither_rework:wither_target_blacklist as it is missing following references: #minecraft:aquatic (from file/1.20.x Withering Heights alpha-1.zip), #minecraft:wither_friends (from file/1.20.x Withering Heights alpha-1.zip)
+[00:50:43] [Worker-Main-10/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
+	at net.minecraft.class_3518.method_15270(class_3518.java:181) ~[server-intermediary.jar:?]
+	at net.minecraft.class_91$class_92.method_450(class_91.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_91$class_92.method_443(class_91.java:72) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[00:50:43] [main/ERROR]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
+com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.readFromJson(ProcessingRecipeSerializer.java:66) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.fromJson(ProcessingRecipeSerializer.java:154) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.method_8121(ProcessingRecipeSerializer.java:21) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper recipe (createaddition:charging/exposed_cut_copper) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chocolate_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper_slab recipe (createaddition:charging/exposed_cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chorus_fruit_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/apple_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingles recipe (createaddition:charging/weathered_copper_shingles) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingle_stairs recipe (createaddition:charging/weathered_copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_copper recipe (createaddition:charging/exposed_copper) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/ERROR]: Parsing error loading recipe createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick
+com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:blastbrick'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.readFromJson(ProcessingRecipeSerializer.java:66) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.fromJson(ProcessingRecipeSerializer.java:154) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.method_8121(ProcessingRecipeSerializer.java:21) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/copper_shingle_stairs recipe (createaddition:charging/copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/copper_shingles recipe (createaddition:charging/copper_shingles) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chorus_fruit_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:charging/copper_block recipe (createaddition:charging/copper_block) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/ERROR]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
+com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.readFromJson(ProcessingRecipeSerializer.java:66) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.fromJson(ProcessingRecipeSerializer.java:154) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.method_8121(ProcessingRecipeSerializer.java:21) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/melon_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/apple_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/cotton_candy_stick_from_mixing_heated_cane_syrup) has more item inputs (10) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_copper recipe (createaddition:charging/weathered_copper) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingle_stairs recipe (createaddition:charging/exposed_copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/cut_copper_block recipe (createaddition:charging/cut_copper_block) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/berry_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:charging/channeling recipe (createaddition:charging/channeling) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/melon_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:charging/cut_copper_slab recipe (createaddition:charging/cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper_stairs recipe (createaddition:charging/weathered_cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/ERROR]: Parsing error loading recipe createaddition:compat/immersiveengineering/item_application/leaded_concrete
+com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:concrete'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.readFromJson(ProcessingRecipeSerializer.java:66) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.fromJson(ProcessingRecipeSerializer.java:154) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.method_8121(ProcessingRecipeSerializer.java:21) ~[create-fabric-0.5.1-f-build.1417+mc1.20.1.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper_stairs recipe (createaddition:charging/exposed_cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/glow_berry_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingles recipe (createaddition:charging/exposed_copper_shingles) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper recipe (createaddition:charging/weathered_cut_copper) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/cut_copper_stairs recipe (createaddition:charging/cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/copper_shingle_slab recipe (createaddition:charging/copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper_slab recipe (createaddition:charging/weathered_cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingle_slab recipe (createaddition:charging/weathered_copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/berry_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chocolate_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[00:50:43] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/glow_berry_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[00:50:43] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingle_slab recipe (createaddition:charging/exposed_copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/WARN]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[00:50:43] [main/INFO]: Loaded 36 recipes
+[00:50:43] [main/INFO]: Injecting recipes
+[00:50:43] [main/ERROR]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/impact
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown selector type '@n' at position 58: ...osion by @<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown selector type '@n' at position 58: ...osion by @<--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[00:50:43] [main/ERROR]: Failed to load function wither_rework:wither/attack/0/projectile/rotation
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 56: ...oat 1 run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 56: ...oat 1 run <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[00:50:43] [main/ERROR]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/effect/trajectory
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected ' ' at position 30: ...transition<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected ' ' at position 30: ...transition<--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[00:50:44] [main/INFO]: Loaded 6453 advancements
+[00:50:44] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[00:50:47] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[00:50:48] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[00:50:48] [main/INFO]: Applied 953 biome modifications to 197 of 204 new biomes in 81.80 ms
+[00:50:48] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:50:48] [Server thread/INFO]: Loading properties
+[00:50:48] [Server thread/INFO]: Default game type: SURVIVAL
+[00:50:48] [Server thread/INFO]: Generating keypair
+[00:50:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:50:48] [Server thread/INFO]: Using default channel type
+[00:50:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:50:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:50:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:50:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:50:48] [Server thread/INFO]: Preparing level "world"
+[00:50:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:50:54] [Worker-Main-4/INFO]: Preparing spawn area: 10%
+[00:50:54] [Worker-Main-5/INFO]: Preparing spawn area: 92%
+[00:50:55] [Server thread/INFO]: Time elapsed: 4541 ms
+[00:50:55] [Server thread/INFO]: Done (6.167s)! For help, type "help"
+[00:50:55] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[00:50:55] [Server thread/INFO]: Start loading plugin from Jade
+[00:50:55] [Server thread/INFO]: Start loading plugin from Jade
+[00:50:55] [Server thread/INFO]: Start loading plugin from Jade
+[00:50:55] [Server thread/INFO]: Start loading plugin from Polymer (Core)
+[00:51:33] [Netty Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:51:50] [Server thread/INFO]: Rad1108[/127.0.0.1:59618] logged in with entity id 57 at (-436.30000001192093, 54.0, -474.69999998807907)
+[00:51:50] [Server thread/INFO]: Syncing config to Rad1108 (100e5775-f9ac-3544-a56b-55cdd79363c2)
+[00:51:50] [Server thread/INFO]: Rad1108 joined the game
+[00:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
+[00:51:57] [Server thread/INFO]: whitehairguy[/127.243.16.58:59620] logged in with entity id 64 at (-437.688218624856, 54.0, -474.30000001192093)
+[00:51:58] [Server thread/INFO]: Syncing config to whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436)
+[00:51:58] [Server thread/INFO]: whitehairguy joined the game
+[00:52:47] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/128, l='ServerLevel[world]', x=-427.24, y=54.00, z=-480.61] died: Piglin Knight was slain by whitehairguy
+[00:52:52] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/94, l='ServerLevel[world]', x=-426.53, y=54.00, z=-486.38] died: Piglin Knight was slain by whitehairguy
+[00:53:01] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:01] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:01] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:01] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:21] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/177, l='ServerLevel[world]', x=-409.97, y=53.77, z=-489.02] died: Piglin Knight was slain by whitehairguy
+[00:53:28] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:28] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:28] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:28] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:28] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:28] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:33] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:33] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:33] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:33] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:53:33] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:08] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:23] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:31] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:31] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:31] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:31] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:31] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:31] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:53] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:53] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:53] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:53] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:54:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:56:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:14] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:57:45] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/131, l='ServerLevel[world]', x=-464.55, y=54.50, z=-476.71] died: Piglin Paratrooper fell from a high place
+[00:58:19] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/118, l='ServerLevel[world]', x=-454.99, y=54.00, z=-487.93] died: Piglin Knight was slain by whitehairguy
+[00:58:26] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/121, l='ServerLevel[world]', x=-452.51, y=54.00, z=-487.98] died: Piglin Knight was slain by whitehairguy
+[00:58:33] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/212, l='ServerLevel[world]', x=-464.30, y=36.00, z=-488.41] died: Piglin Paratrooper was doomed to fall
+[01:01:13] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/119, l='ServerLevel[world]', x=-440.81, y=54.00, z=-484.62] died: Piglin Knight tried to swim in lava
+[01:01:38] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/116, l='ServerLevel[world]', x=-443.54, y=55.00, z=-493.22] died: Piglin Knight was slain by whitehairguy
+[01:01:42] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/126, l='ServerLevel[world]', x=-442.84, y=55.50, z=-494.53] died: Piglin Knight was slain by whitehairguy
+[01:02:09] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:02:09] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:02:09] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:02:09] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:02:28] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/122, l='ServerLevel[world]', x=-442.60, y=54.00, z=-481.98] died: Piglin Knight burned to death
+[01:04:40] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/120, l='ServerLevel[world]', x=-430.66, y=55.00, z=-507.74] died: Piglin Knight was slain by whitehairguy
+[01:04:41] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/199, l='ServerLevel[world]', x=-436.14, y=54.00, z=-506.19] died: Piglin Paratrooper was slain by whitehairguy
+[01:04:58] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/160, l='ServerLevel[world]', x=-451.93, y=64.50, z=-519.50] died: Piglin Paratrooper fell from a high place
+[01:05:09] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/200, l='ServerLevel[world]', x=-442.58, y=55.50, z=-523.10] died: Piglin Paratrooper was slain by whitehairguy
+[01:05:13] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/161, l='ServerLevel[world]', x=-447.60, y=55.00, z=-516.86] died: Piglin Paratrooper was slain by whitehairguy
+[01:05:42] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/196, l='ServerLevel[world]', x=-438.39, y=56.00, z=-513.99] died: Piglin Knight was slain by whitehairguy
+[01:07:19] [Server thread/INFO]: whitehairguy blew up
+[01:09:15] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/134, l='ServerLevel[world]', x=-482.01, y=36.00, z=-486.59] died: Piglin Paratrooper was slain by whitehairguy
+[01:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[01:11:23] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/229, l='ServerLevel[world]', x=-504.31, y=36.50, z=-469.23] died: Piglin Paratrooper was doomed to fall by whitehairguy
+[01:12:03] [Server thread/INFO]: Named entity class_5419['Piglin Scout'/136, l='ServerLevel[world]', x=-504.22, y=36.00, z=-456.51] died: Piglin Scout was slain by whitehairguy
+[01:12:56] [Server thread/INFO]: Named entity class_5419['Piglin Archer'/130, l='ServerLevel[world]', x=-463.28, y=36.00, z=-466.49] died: Piglin Archer walked into fire whilst fighting Rad1108
+[01:13:23] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/133, l='ServerLevel[world]', x=-463.30, y=56.00, z=-469.36] died: Piglin Paratrooper was shot by Rad1108
+[01:18:47] [Server thread/INFO]: Rad1108 lost connection: Disconnected
+[01:18:47] [Server thread/INFO]: Rad1108 left the game
+[01:19:53] [Server thread/INFO]: Rad1108[/127.0.0.1:59787] logged in with entity id 3562 at (-501.4794128791371, 105.0, -466.45716315246364)
+[01:19:53] [Server thread/INFO]: Syncing config to Rad1108 (100e5775-f9ac-3544-a56b-55cdd79363c2)
+[01:19:53] [Server thread/INFO]: Rad1108 joined the game
+[01:20:34] [Server thread/INFO]: Named entity class_5419['Piglin Archer'/264, l='ServerLevel[world]', x=-519.58, y=40.00, z=-488.68] died: Piglin Archer was doomed to fall by Rad1108
+[01:21:30] [Netty Server IO #10/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -60,7 +757,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:20] [Netty Server IO #28/ERROR]: Exception occurred in netty pipeline
+[01:21:32] [Netty Server IO #11/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -106,7 +803,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:20] [Netty Server IO #29/ERROR]: Exception occurred in netty pipeline
+[01:21:33] [Netty Server IO #14/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -152,7 +849,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:20] [Netty Server IO #30/ERROR]: Exception occurred in netty pipeline
+[01:21:33] [Netty Server IO #12/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -198,7 +895,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:22] [Netty Server IO #31/ERROR]: Exception occurred in netty pipeline
+[01:21:33] [Netty Server IO #13/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -244,7 +941,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:22] [Netty Server IO #32/ERROR]: Exception occurred in netty pipeline
+[01:21:35] [Netty Server IO #15/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -290,7 +987,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:24] [Netty Server IO #33/ERROR]: Exception occurred in netty pipeline
+[01:21:36] [Netty Server IO #16/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -336,7 +1033,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:16:46] [Netty Server IO #34/ERROR]: Exception occurred in netty pipeline
+[01:21:49] [Netty Server IO #17/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -382,28 +1079,195 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 31 more
-[00:17:34] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/14106, l='ServerLevel[world]', x=-416.30, y=62.00, z=-508.41] died: Piglin Paratrooper was slain by Wither Skeleton
-[00:20:26] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/14107, l='ServerLevel[world]', x=-412.90, y=63.00, z=-505.23] died: Piglin Paratrooper was slain by Wither Skeleton
-[00:22:01] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/14805, l='ServerLevel[world]', x=-511.30, y=62.00, z=-439.70] died: Piglin Knight suffocated in a wall
-[00:22:01] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/14803, l='ServerLevel[world]', x=-511.70, y=62.00, z=-436.59] died: Piglin Paratrooper suffocated in a wall
-[00:33:12] [Server thread/INFO]: Rad1108 lost connection: Disconnected
-[00:33:12] [Server thread/INFO]: Rad1108 left the game
-[00:37:09] [Server thread/INFO]: whitehairguy lost connection: Disconnected
-[00:37:09] [Server thread/INFO]: whitehairguy left the game
-[00:40:08] [Server thread/INFO]: Rad1108[/127.0.0.1:59138] logged in with entity id 16591 at (-357.9937641545792, 58.0, -433.30000001192093)
-[00:40:08] [Server thread/INFO]: Syncing config to Rad1108 (100e5775-f9ac-3544-a56b-55cdd79363c2)
-[00:40:08] [Server thread/INFO]: Rad1108 joined the game
-[00:40:18] [Server thread/INFO]: whitehairguy[/127.243.16.58:59146] logged in with entity id 16960 at (-361.3170719771083, 60.0, -433.6086117113405)
-[00:40:18] [Server thread/INFO]: Syncing config to whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436)
-[00:40:18] [Server thread/INFO]: whitehairguy joined the game
-[00:42:14] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/16729, l='ServerLevel[world]', x=-413.56, y=61.00, z=-502.54] died: Piglin Knight was slain by Wither Skeleton
-[00:44:33] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/16897, l='ServerLevel[world]', x=-511.66, y=61.00, z=-446.34] died: Piglin Paratrooper tried to swim in lava
-[00:44:33] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/16898, l='ServerLevel[world]', x=-511.70, y=61.00, z=-442.62] died: Piglin Paratrooper tried to swim in lava
-[00:44:44] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/16882, l='ServerLevel[world]', x=-442.63, y=60.00, z=-469.70] died: Piglin Paratrooper was slain by whitehairguy
-[00:44:49] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/16847, l='ServerLevel[world]', x=-442.09, y=61.27, z=-475.54] died: Piglin Paratrooper was slain by whitehairguy
-[00:44:52] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/16785, l='ServerLevel[world]', x=-439.70, y=59.42, z=-474.92] died: Piglin Paratrooper was slain by whitehairguy
-[00:44:54] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/16846, l='ServerLevel[world]', x=-440.02, y=61.00, z=-471.26] died: Piglin Paratrooper was slain by Rad1108
-[00:48:23] [Server thread/INFO]: Rad1108 lost connection: Disconnected
-[00:48:23] [Server thread/INFO]: Rad1108 left the game
-[00:48:26] [Server thread/INFO]: whitehairguy lost connection: Disconnected
-[00:48:26] [Server thread/INFO]: whitehairguy left the game
+[01:21:50] [Netty Server IO #18/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 31 more
+[01:21:51] [Netty Server IO #20/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 31 more
+[01:22:26] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:26] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:26] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:29] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:29] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:29] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:29] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:36] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:36] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:37] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:37] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[01:22:37] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:37] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:37] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:22:56] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/211, l='ServerLevel[world]', x=-502.70, y=62.00, z=-481.27] died: Piglin Knight was slain by whitehairguy
+[01:24:16] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:16] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:16] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:16] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:16] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:17] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:17] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:17] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:17] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:17] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:22] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:22] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:22] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:22] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:30] [Server thread/INFO]: Named entity class_5419['Piglin Knight'/210, l='ServerLevel[world]', x=-497.61, y=63.50, z=-509.59] died: Piglin Knight was slain by whitehairguy
+[01:24:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:46] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:47] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:47] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:47] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:55] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:55] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:24:55] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:01] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:01] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:19] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:19] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:19] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:25:19] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:20] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:25] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:25] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:25] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:36] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/159, l='ServerLevel[world]', x=-386.09, y=62.00, z=-483.90] died: Piglin Paratrooper was slain by whitehairguy
+[01:26:47] [Server thread/INFO]: Named entity class_5419['Piglin Archer'/230, l='ServerLevel[world]', x=-387.41, y=63.04, z=-466.64] died: Piglin Archer was slain by whitehairguy
+[01:26:53] [Server thread/INFO]: Named entity class_5419['Piglin Paratrooper'/140, l='ServerLevel[world]', x=-387.64, y=62.00, z=-471.05] died: Piglin Paratrooper was slain by whitehairguy
+[01:26:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:26:54] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[01:26:54] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:04] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:04] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:04] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:04] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:07] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:07] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:07] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:07] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:07] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:13] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:13] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:13] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:13] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:13] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:13] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:15] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:24] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:24] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:24] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:24] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:24] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[01:27:29] [Server thread/INFO]: Rad1108 lost connection: Disconnected
+[01:27:29] [Server thread/INFO]: Rad1108 left the game
+[01:27:40] [Server thread/INFO]: whitehairguy lost connection: Disconnected
+[01:27:40] [Server thread/INFO]: whitehairguy left the game
+[01:31:49] [Server thread/INFO]: Rad1108[/127.0.0.1:61230] logged in with entity id 4510 at (-385.69999998807907, 62.0, -444.08887126655037)
+[01:31:49] [Server thread/INFO]: Syncing config to Rad1108 (100e5775-f9ac-3544-a56b-55cdd79363c2)
+[01:31:49] [Server thread/INFO]: Rad1108 joined the game
+[01:33:24] [Server thread/INFO]: Rad1108 lost connection: Disconnected
+[01:33:24] [Server thread/INFO]: Rad1108 left the game
