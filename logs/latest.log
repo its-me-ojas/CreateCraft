@@ -1,11 +1,11 @@
-[21:21:50] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[21:21:50] [ForkJoinPool-1-worker-15/WARN]: Mod creategoggles uses the version 0.5.5.g which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'g'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:21:50] [ForkJoinPool-1-worker-19/WARN]: Mod design_decor uses the version 0.4.0b_fabric+1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0b_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:21:50] [ForkJoinPool-1-worker-10/WARN]: Mod ctov uses the version 3.4.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:21:50] [main/WARN]: Warnings were found!
+[22:01:58] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[22:01:58] [ForkJoinPool-1-worker-2/WARN]: Mod creategoggles uses the version 0.5.5.g which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'g'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:01:58] [ForkJoinPool-1-worker-5/WARN]: Mod design_decor uses the version 0.4.0b_fabric+1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0b_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:01:58] [ForkJoinPool-1-worker-6/WARN]: Mod ctov uses the version 3.4.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:01:58] [main/WARN]: Warnings were found!
  - Mod 'Create Enchantment Industry' (create_enchantment_industry) 1.2.16 recommends version 0.5.1-f-build.1335+mc1.20.1 of mod 'Create' (create), but only the wrong version is present: 0.5.1-f-build.1417+mc1.20.1!
 	 - You should install version 0.5.1-f-build.1335+mc1.20.1 of mod 'Create' (create) for the optimal experience.
-[21:21:50] [main/INFO]: Loading 155 mods:
+[22:01:58] [main/INFO]: Loading 156 mods:
 	- accessories 1.0.0-beta.41+1.20.1
 	   |-- io_wispforest_endec 0.1.8
 	   |-- io_wispforest_endec_gson 0.1.5
@@ -57,6 +57,7 @@
 	- creategoggles 0.5.5.g
 	- ctov 3.4.9a
 	- design_decor 0.4.0b_fabric+1.20.1
+	- endrem 5.2.4
 	- explorify 1.6.2
 	- fabric-api 0.92.2+1.20.1
 	   |-- fabric-api-base 0.4.31+1802ada577
@@ -187,118 +188,119 @@
 	- yungsbridges 1.20-Fabric-4.0.3
 	- yungscavebiomes 1.20.1-Fabric-2.0.0
 	- yungsextras 1.20-Fabric-4.0.3
-[21:21:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/raksh/Documents/GitHub/createServer/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:21:51] [main/INFO]: Compatibility level set to JAVA_17
-[21:21:51] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:21:51] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:21:51] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:21:51] [main/WARN]: Reference map 'JustEnoughResources-Fabric-1.20.1-refmap.json' for jeresources.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:21:51] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:21:51] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:21:52] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[21:21:52] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[21:21:52] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[21:21:52] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
-[21:21:52] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
-[21:21:52] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
-[21:21:52] [main/WARN]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev/latvian/mods/kubejs/recipe/RecipesEventJS)
-[21:21:52] [main/WARN]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
-[21:21:53] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[21:21:53] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[21:21:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:21:57] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zep000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[21:21:57] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bho000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[21:22:00] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zfk000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[21:22:06] [main/INFO]: Registered Trinkets Reloaded Listeners
-[21:22:06] [main/INFO]: Reflections took 98 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:06] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:06] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[21:22:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[21:22:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:06] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:06] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
-[21:22:06] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[21:22:07] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[21:22:07] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[21:22:07] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:07] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:07] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[21:22:07] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:22:07] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:07] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:07] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:22:07] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:22:07] [main/INFO]: fabric loader environment detected
-[21:22:11] [main/INFO]: Create: Dragon Lib Create Dragon Lib has initialized, ready to support your Create add-ons!
-[21:22:11] [main/INFO]: CEI: hyper_experience_orb got converted to hyper_experience_orb
-[21:22:11] [main/INFO]: CEI: hyper_experience_bottle got converted to hyper_experience_bottle
-[21:22:12] [main/WARN]: Tried to register an overly high cookTime: 57600 > 32767! (air)
-[21:22:12] [main/INFO]: [STDOUT]: Create Crafts & Additions Initialized!
-[21:22:12] [main/INFO]: Registering items for Create Deco
-[21:22:12] [main/INFO]: Registering blocks for Create Deco
-[21:22:12] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:13] [main/INFO]: placard tooltip was null
-[21:22:14] [main/INFO]: Registering Items for createfood
-[21:22:14] [main/INFO]: Registering Blocks for createfood
-[21:22:14] [main/INFO]: Registering Fluids for createfood
-[21:22:14] [main/INFO]: CreateGoggles init
-[21:22:14] [main/INFO]: cgblocks
-[21:22:14] [main/INFO]: cgitems
-[21:22:14] [main/INFO]: cgblockentities
-[21:22:14] [main/INFO]: ResourceKey[minecraft:trim_pattern / creategoggles:goggle]
-[21:22:14] [main/INFO]: ResourceKey[minecraft:trim_material / creategoggles:goggle_material]
-[21:22:14] [main/INFO]: ResourceKey[minecraft:root / minecraft:trim_pattern]
-[21:22:14] [main/INFO]: CGItemModifiers register false
-[21:22:14] [main/INFO]: CreateGogglesFabric init
-[21:22:14] [main/INFO]: Create addon mod [Create: Design n' Decor] is loading alongside Create [0.5.1f]!
-[21:22:14] [main/INFO]: Create: Design n' Decor is accessing Porting Lib from the server!
-[21:22:17] [main/ERROR]: No data fixer registered for rotten_tomato
-[21:22:17] [main/INFO]: Definitely not up to no good
-[21:22:17] [main/INFO]: Registered bogey styles from railways
-[21:22:17] [main/INFO]: Registering data fixers
-[21:22:17] [main/INFO]: 0 Datafixer optimizations took 2 milliseconds
-[21:22:17] [main/INFO]: Registering tracks for Hex Casting
-[21:22:17] [main/INFO]: Registering tracks for Oh The Biomes You'll Go
-[21:22:17] [main/INFO]: Registering tracks for Blue Skies
-[21:22:17] [main/INFO]: Registering tracks for Twilight Forest
-[21:22:17] [main/INFO]: Registering tracks for Biomes O' Plenty
-[21:22:17] [main/INFO]: Registering tracks for Nature's Spirit
-[21:22:17] [main/INFO]: Registering tracks for Dreams and Desires
-[21:22:17] [main/INFO]: Registering tracks for Quark
-[21:22:17] [main/INFO]: Registering tracks for TerraFirmaCraft
-[21:22:18] [main/ERROR]: No data fixer registered for 
-[21:22:18] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[21:22:18] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[21:22:18] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
-[21:22:18] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 4 values
-[21:22:18] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
-[21:22:18] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:18] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:18] [main/INFO]: Reflections took 31 ms to scan 1 urls, producing 5 keys and 58 values
-[21:22:18] [main/INFO]: Reflections took 33 ms to scan 1 urls, producing 5 keys and 58 values
-[21:22:18] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:18] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:22:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:22:21] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[21:22:22] [Worker-Main-8/ERROR]: Couldn't load tag wither_rework:wither_target_blacklist as it is missing following references: #minecraft:aquatic (from file/1.20.x Withering Heights alpha-1.zip), #minecraft:wither_friends (from file/1.20.x Withering Heights alpha-1.zip)
-[21:22:23] [Worker-Main-2/ERROR]: Couldn't load tag creategoggles:modifier/goggle_incompatible as it is missing following references: mekanism:mekasuit_helmet (from fabric)
-[21:22:23] [Worker-Main-2/ERROR]: Couldn't load tag design_decor:containers as it is missing following references: design_decor:red_container (from fabric), design_decor:blue_container (from fabric), design_decor:green_container (from fabric)
-[21:22:23] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:trim_materialss as it is missing following references: creategoggles:goggle_material (from fabric)
-[21:22:25] [Worker-Main-19/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+[22:01:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/crestfallen/Minecraft/CreateServer/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:01:59] [main/INFO]: Compatibility level set to JAVA_17
+[22:01:59] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:01:59] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:01:59] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:01:59] [main/WARN]: Reference map 'JustEnoughResources-Fabric-1.20.1-refmap.json' for jeresources.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:01:59] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:01:59] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:02:00] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[22:02:00] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[22:02:00] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[22:02:00] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[22:02:01] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[22:02:01] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[22:02:01] [main/WARN]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev/latvian/mods/kubejs/recipe/RecipesEventJS)
+[22:02:01] [main/WARN]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[22:02:02] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[22:02:02] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[22:02:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:02:07] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zep000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22:02:07] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bib000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22:02:13] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zfk000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22:02:22] [main/INFO]: Registered Trinkets Reloaded Listeners
+[22:02:22] [main/INFO]: Reflections took 83 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[22:02:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[22:02:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[22:02:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[22:02:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[22:02:22] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[22:02:22] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[22:02:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[22:02:22] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[22:02:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[22:02:22] [main/INFO]: fabric loader environment detected
+[22:02:27] [main/INFO]: Create: Dragon Lib Create Dragon Lib has initialized, ready to support your Create add-ons!
+[22:02:28] [main/INFO]: CEI: hyper_experience_orb got converted to hyper_experience_orb
+[22:02:28] [main/INFO]: CEI: hyper_experience_bottle got converted to hyper_experience_bottle
+[22:02:28] [main/WARN]: Tried to register an overly high cookTime: 57600 > 32767! (air)
+[22:02:28] [main/INFO]: [STDOUT]: Create Crafts & Additions Initialized!
+[22:02:29] [main/INFO]: Registering items for Create Deco
+[22:02:29] [main/INFO]: Registering blocks for Create Deco
+[22:02:29] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:30] [main/INFO]: placard tooltip was null
+[22:02:31] [main/INFO]: Registering Items for createfood
+[22:02:31] [main/INFO]: Registering Blocks for createfood
+[22:02:31] [main/INFO]: Registering Fluids for createfood
+[22:02:31] [main/INFO]: CreateGoggles init
+[22:02:31] [main/INFO]: cgblocks
+[22:02:31] [main/INFO]: cgitems
+[22:02:31] [main/INFO]: cgblockentities
+[22:02:31] [main/INFO]: ResourceKey[minecraft:trim_pattern / creategoggles:goggle]
+[22:02:31] [main/INFO]: ResourceKey[minecraft:trim_material / creategoggles:goggle_material]
+[22:02:31] [main/INFO]: ResourceKey[minecraft:root / minecraft:trim_pattern]
+[22:02:31] [main/INFO]: CGItemModifiers register false
+[22:02:31] [main/INFO]: CreateGogglesFabric init
+[22:02:31] [main/INFO]: Create addon mod [Create: Design n' Decor] is loading alongside Create [0.5.1f]!
+[22:02:31] [main/INFO]: Create: Design n' Decor is accessing Porting Lib from the server!
+[22:02:33] [main/ERROR]: No data fixer registered for rotten_tomato
+[22:02:34] [main/INFO]: Definitely not up to no good
+[22:02:34] [main/INFO]: Registered bogey styles from railways
+[22:02:34] [main/INFO]: Registering data fixers
+[22:02:34] [main/INFO]: 0 Datafixer optimizations took 0 milliseconds
+[22:02:34] [main/INFO]: Registering tracks for Hex Casting
+[22:02:34] [main/INFO]: Registering tracks for Oh The Biomes You'll Go
+[22:02:34] [main/INFO]: Registering tracks for Blue Skies
+[22:02:34] [main/INFO]: Registering tracks for Twilight Forest
+[22:02:34] [main/INFO]: Registering tracks for Biomes O' Plenty
+[22:02:34] [main/INFO]: Registering tracks for Nature's Spirit
+[22:02:34] [main/INFO]: Registering tracks for Dreams and Desires
+[22:02:34] [main/INFO]: Registering tracks for Quark
+[22:02:34] [main/INFO]: Registering tracks for TerraFirmaCraft
+[22:02:35] [main/ERROR]: No data fixer registered for 
+[22:02:35] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:02:35] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:02:35] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[22:02:35] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 4 values
+[22:02:35] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
+[22:02:35] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:35] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:35] [main/INFO]: Reflections took 54 ms to scan 1 urls, producing 5 keys and 58 values
+[22:02:35] [main/INFO]: Reflections took 46 ms to scan 1 urls, producing 5 keys and 58 values
+[22:02:35] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:35] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[22:02:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:02:36] [main/INFO]: Found new data pack file/Ender Dragon Fight Remastered Data And Resource Pack-v4.3.zip, loading it automatically
+[22:02:39] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[22:02:40] [Worker-Main-4/ERROR]: Couldn't load tag wither_rework:wither_target_blacklist as it is missing following references: #minecraft:aquatic (from file/1.20.x Withering Heights alpha-1.zip), #minecraft:wither_friends (from file/1.20.x Withering Heights alpha-1.zip)
+[22:02:40] [Worker-Main-7/ERROR]: Couldn't load tag creategoggles:modifier/goggle_incompatible as it is missing following references: mekanism:mekasuit_helmet (from fabric)
+[22:02:40] [Worker-Main-7/ERROR]: Couldn't load tag design_decor:containers as it is missing following references: design_decor:red_container (from fabric), design_decor:blue_container (from fabric), design_decor:green_container (from fabric)
+[22:02:40] [Worker-Main-7/ERROR]: Couldn't load tag minecraft:trim_materialss as it is missing following references: creategoggles:goggle_material (from fabric)
+[22:02:43] [Worker-Main-7/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
 com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraft.class_3518.method_15270(class_3518.java:181) ~[server-intermediary.jar:?]
 	at net.minecraft.class_91$class_92.method_450(class_91.java:86) ~[server-intermediary.jar:?]
@@ -346,7 +348,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[21:22:27] [main/ERROR]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
+[22:02:46] [main/ERROR]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
 com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -371,16 +373,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper recipe (createaddition:charging/exposed_cut_copper) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chocolate_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper_slab recipe (createaddition:charging/exposed_cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chorus_fruit_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/apple_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingles recipe (createaddition:charging/weathered_copper_shingles) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingle_stairs recipe (createaddition:charging/weathered_copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_copper recipe (createaddition:charging/exposed_copper) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/ERROR]: Parsing error loading recipe createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper recipe (createaddition:charging/exposed_cut_copper) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chocolate_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper_slab recipe (createaddition:charging/exposed_cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chorus_fruit_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/apple_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingles recipe (createaddition:charging/weathered_copper_shingles) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingle_stairs recipe (createaddition:charging/weathered_copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_copper recipe (createaddition:charging/exposed_copper) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/ERROR]: Parsing error loading recipe createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick
 com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:blastbrick'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -405,14 +407,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:blastbri
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/copper_shingle_stairs recipe (createaddition:charging/copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/copper_shingles recipe (createaddition:charging/copper_shingles) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chorus_fruit_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:charging/copper_block recipe (createaddition:charging/copper_block) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/ERROR]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/copper_shingle_stairs recipe (createaddition:charging/copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/copper_shingles recipe (createaddition:charging/copper_shingles) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chorus_fruit_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:charging/copper_block recipe (createaddition:charging/copper_block) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/ERROR]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
 com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -437,20 +439,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/melon_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/apple_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/cotton_candy_stick_from_mixing_heated_cane_syrup) has more item inputs (10) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_copper recipe (createaddition:charging/weathered_copper) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingle_stairs recipe (createaddition:charging/exposed_copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/cut_copper_block recipe (createaddition:charging/cut_copper_block) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/berry_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:charging/channeling recipe (createaddition:charging/channeling) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/melon_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:charging/cut_copper_slab recipe (createaddition:charging/cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper_stairs recipe (createaddition:charging/weathered_cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/ERROR]: Parsing error loading recipe createaddition:compat/immersiveengineering/item_application/leaded_concrete
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/melon_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/apple_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/cotton_candy_stick_from_mixing_heated_cane_syrup) has more item inputs (10) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_copper recipe (createaddition:charging/weathered_copper) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingle_stairs recipe (createaddition:charging/exposed_copper_shingle_stairs) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/cut_copper_block recipe (createaddition:charging/cut_copper_block) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/berry_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:charging/channeling recipe (createaddition:charging/channeling) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/melon_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:charging/cut_copper_slab recipe (createaddition:charging/cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper_stairs recipe (createaddition:charging/weathered_cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/ERROR]: Parsing error loading recipe createaddition:compat/immersiveengineering/item_application/leaded_concrete
 com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:concrete'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -475,25 +477,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:concrete
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper_stairs recipe (createaddition:charging/exposed_cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/glow_berry_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingles recipe (createaddition:charging/exposed_copper_shingles) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper recipe (createaddition:charging/weathered_cut_copper) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/cut_copper_stairs recipe (createaddition:charging/cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/copper_shingle_slab recipe (createaddition:charging/copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper_slab recipe (createaddition:charging/weathered_cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingle_slab recipe (createaddition:charging/weathered_copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/berry_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chocolate_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
-[21:22:27] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/glow_berry_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
-[21:22:27] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingle_slab recipe (createaddition:charging/exposed_copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/WARN]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[21:22:27] [main/INFO]: Loaded 36 recipes
-[21:22:27] [main/INFO]: Injecting recipes
-[21:22:28] [main/ERROR]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/impact
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_cut_copper_stairs recipe (createaddition:charging/exposed_cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/glow_berry_cream_frosting_fluid_from_mixing_alt) has more item inputs (12) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingles recipe (createaddition:charging/exposed_copper_shingles) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper recipe (createaddition:charging/weathered_cut_copper) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/cut_copper_stairs recipe (createaddition:charging/cut_copper_stairs) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/copper_shingle_slab recipe (createaddition:charging/copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_cut_copper_slab recipe (createaddition:charging/weathered_cut_copper_slab) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:charging/weathered_copper_shingle_slab recipe (createaddition:charging/weathered_copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/berry_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/chocolate_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[22:02:46] [main/WARN]: Your custom create:mixing recipe (createfood:create/mixing/glow_berry_cream_frosting_bucket_from_mixing_alt) has more item inputs (13) than supported (9).
+[22:02:46] [main/WARN]: Your custom createaddition:charging/exposed_copper_shingle_slab recipe (createaddition:charging/exposed_copper_shingle_slab) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/WARN]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[22:02:46] [main/INFO]: Loaded 36 recipes
+[22:02:46] [main/INFO]: Injecting recipes
+[22:02:46] [main/ERROR]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/impact
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown selector type '@n' at position 58: ...osion by @<--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -509,7 +511,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[21:22:28] [main/ERROR]: Failed to load function wither_rework:wither/attack/0/projectile/rotation
+[22:02:46] [main/ERROR]: Failed to load function wither_rework:wither/attack/0/projectile/rotation
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 56: ...oat 1 run <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -525,7 +527,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[21:22:28] [main/ERROR]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/effect/trajectory
+[22:02:46] [main/ERROR]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/effect/trajectory
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected ' ' at position 30: ...transition<--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -541,60 +543,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[21:22:28] [main/INFO]: Loaded 6434 advancements
-[21:22:33] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[21:22:33] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[21:22:34] [main/INFO]: Applied 953 biome modifications to 197 of 204 new biomes in 84.95 ms
-[21:22:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:22:34] [Server thread/INFO]: Loading properties
-[21:22:34] [Server thread/INFO]: Default game type: SURVIVAL
-[21:22:34] [Server thread/INFO]: Generating keypair
-[21:22:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:22:34] [Server thread/INFO]: Using default channel type
-[21:22:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:22:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:22:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:22:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:22:34] [Server thread/INFO]: Preparing level "world"
-[21:22:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:22:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:22:42] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[21:22:43] [Worker-Main-11/INFO]: Preparing spawn area: 36%
-[21:22:43] [Server thread/INFO]: Time elapsed: 6500 ms
-[21:22:43] [Server thread/INFO]: Done (9.119s)! For help, type "help"
-[21:22:43] [Server thread/INFO]: Start loading plugin from Jade
-[21:22:43] [Server thread/INFO]: Start loading plugin from Jade
-[21:22:43] [Server thread/INFO]: Start loading plugin from Jade
-[21:22:48] [Server thread/INFO]: whitehairguy[/127.139.218.78:56104] logged in with entity id 53 at (-78.17681085701568, 32.0, -168.32319470929446)
-[21:22:48] [Server thread/INFO]: Syncing config to whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436)
-[21:22:49] [Server thread/INFO]: whitehairguy joined the game
-[21:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
-[21:24:04] [Server thread/WARN]: whitehairguy moved too quickly! 13.73416167064,0.0,4.34674755034996
-[21:24:05] [Server thread/WARN]: whitehairguy moved too quickly! -11.91131029068319,0.0,-7.47834630836951
-[21:24:50] [Server thread/INFO]: Rad1108[/127.0.0.1:56144] logged in with entity id 1136 at (-76.52614755269614, 32.0, -166.8276137045559)
-[21:24:50] [Server thread/INFO]: Syncing config to Rad1108 (100e5775-f9ac-3544-a56b-55cdd79363c2)
-[21:24:50] [Server thread/INFO]: Rad1108 joined the game
-[21:27:17] [Server thread/INFO]: whitehairguy lost connection: Disconnected
-[21:27:17] [Server thread/INFO]: whitehairguy left the game
-[21:30:38] [Server thread/INFO]: whitehairguy[/127.139.218.78:56199] logged in with entity id 2318 at (-517.2753849350781, -52.0, -1170.9617142305435)
-[21:30:38] [Server thread/INFO]: Syncing config to whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436)
-[21:30:38] [Server thread/INFO]: whitehairguy joined the game
-[21:31:55] [Server thread/INFO]: Rad1108 lost connection: Disconnected
-[21:31:55] [Server thread/INFO]: Rad1108 left the game
-[21:32:52] [Server thread/INFO]: Rad1108[/127.0.0.1:56247] logged in with entity id 2939 at (-80.30000001192093, 32.0, -167.95496932907324)
-[21:32:52] [Server thread/INFO]: Syncing config to Rad1108 (100e5775-f9ac-3544-a56b-55cdd79363c2)
-[21:32:52] [Server thread/INFO]: Rad1108 joined the game
-[21:54:38] [Server thread/INFO]: Rad1108 lost connection: Disconnected
-[21:54:38] [Server thread/INFO]: Rad1108 left the game
-[21:54:39] [Server thread/INFO]: whitehairguy lost connection: Disconnected
-[21:54:39] [Server thread/INFO]: whitehairguy left the game
+[22:02:47] [main/INFO]: Loaded 6453 advancements
+[22:02:54] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:02:55] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:02:55] [main/INFO]: Applied 953 biome modifications to 197 of 204 new biomes in 159.4 ms
+[22:02:55] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:02:55] [Server thread/INFO]: Loading properties
+[22:02:55] [Server thread/INFO]: Default game type: SURVIVAL
+[22:02:55] [Server thread/INFO]: Generating keypair
+[22:02:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:02:55] [Server thread/INFO]: Using epoll channel type
+[22:02:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:02:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:02:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:02:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:02:55] [Server thread/INFO]: Preparing level "world"
+[22:03:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:03:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:03:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:03:19] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[22:03:20] [Worker-Main-3/INFO]: Preparing spawn area: 50%
+[22:03:20] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[22:03:21] [Server thread/INFO]: Time elapsed: 13218 ms
+[22:03:21] [Server thread/INFO]: Done (25.184s)! For help, type "help"
+[22:03:21] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[22:03:21] [Server thread/INFO]: Start loading plugin from Jade
+[22:03:21] [Server thread/INFO]: Start loading plugin from Jade
+[22:03:21] [Server thread/INFO]: Start loading plugin from Jade
+[22:03:38] [Server thread/INFO]: tester[/127.0.0.1:57438] logged in with entity id 60 at (-0.5, 72.0, 266.5)
+[22:03:39] [Server thread/INFO]: Syncing config to tester (dd823a0c-b94a-369f-acd6-ddd287e3180e)
+[22:03:39] [Server thread/INFO]: tester joined the game
+[22:03:41] [Server thread/INFO]: Made tester a server operator
+[22:04:34] [Server thread/INFO]: [tester: Set own game mode to Creative Mode]
+[22:05:57] [Server thread/INFO]: [tester: Set own game mode to Spectator Mode]
+[22:06:01] [Server thread/INFO]: tester lost connection: Disconnected
+[22:06:01] [Server thread/INFO]: tester left the game

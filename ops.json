@@ -4,5 +4,11 @@
     "name": "whitehairguy",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dd823a0c-b94a-369f-acd6-ddd287e3180e",
+    "name": "tester",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
