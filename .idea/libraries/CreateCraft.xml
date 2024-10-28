@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CreateCraft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/interiors-0.5.6+fabric-mc1.20.1-build.104.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric-server-launch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

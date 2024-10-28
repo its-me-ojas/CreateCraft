@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fabric-loader-0.16.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/fabricmc/fabric-loader/0.16.5/fabric-loader-0.16.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

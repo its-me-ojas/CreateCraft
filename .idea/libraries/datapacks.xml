@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="datapacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/world/datapacks/Incendium_1.20_v5.3.5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/Ender Dragon Fight Remastered Data And Resource Pack-v4.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/Camps. Castles. Carrigaes. 2.3.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/BlazeandCave's Advancements Pack 1.16.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/tectonic-datapack-v2.2.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/1.20.x Withering Heights alpha-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/MobCaptains-v3.1.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/world/datapacks/Terralith_1.20_v2.5.4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
