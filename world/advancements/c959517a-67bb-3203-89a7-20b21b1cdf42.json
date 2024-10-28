@@ -233,8 +233,11 @@
       "out_for_a_stroll": "2024-10-27 17:54:02 +0530",
       "for_you_my_sweet": "2024-10-26 18:29:34 +0530",
       "bacon": "2024-10-27 15:55:01 +0530",
+      "om_nom_nom": "2024-10-28 20:12:27 +0530",
+      "disen_berry_berry_bad": "2024-10-28 20:27:27 +0530",
       "ooh_baby": "2024-10-27 19:03:44 +0530",
       "natural_fertiliser": "2024-10-27 12:16:33 +0530",
+      "more_for_me": "2024-10-28 20:12:46 +0530",
       "i_hereby_dub_thee": "2024-10-27 15:01:19 +0530",
       "torched": "2024-10-26 20:25:49 +0530",
       "heart_of_darkness": "2024-10-26 18:37:59 +0530",
@@ -268,6 +271,7 @@
       "the_descent": "2024-10-27 14:18:26 +0530",
       "if_only_cats_grew_into_kittens": "2024-10-27 17:02:29 +0530",
       "sweet_dreams": "2024-10-26 19:08:23 +0530",
+      "a_good_start": "2024-10-28 20:32:25 +0530",
       "animal_root": "2024-10-26 19:11:00 +0530",
       "biomes_root": "2024-10-26 18:30:01 +0530",
       "electric_rails": "2024-10-26 20:42:09 +0530",
@@ -303,6 +307,7 @@
   },
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
+      "more_for_me": "2024-10-28 20:12:46 +0530",
       "boing_boing": "2024-10-27 17:45:06 +0530",
       "natural_sprinter": "2024-10-27 14:19:28 +0530",
       "sheriff_firearm": "2024-10-27 18:08:33 +0530",
@@ -315,7 +320,8 @@
       "horse_training": "2024-10-27 16:07:37 +0530",
       "root": "2024-10-26 18:22:13 +0530",
       "laps_in_the_pool": "2024-10-27 12:07:48 +0530",
-      "sneaky_snitch": "2024-10-27 11:08:12 +0530"
+      "sneaky_snitch": "2024-10-27 11:08:12 +0530",
+      "om_nom_nom": "2024-10-28 20:12:27 +0530"
     },
     "done": false
   },
@@ -970,6 +976,7 @@
       "smooth_dude": "2024-10-27 14:53:16 +0530",
       "sweet_dreams": "2024-10-26 19:08:23 +0530",
       "change_of_sheets": "2024-10-26 19:49:53 +0530",
+      "a_good_start": "2024-10-28 20:32:25 +0530",
       "clay_dough": "2024-10-27 15:29:59 +0530",
       "stairs_no": "2024-10-27 14:29:13 +0530",
       "torched": "2024-10-26 20:25:49 +0530",
@@ -1807,7 +1814,8 @@
       "sugar_sugar": "2024-10-26 19:03:38 +0530",
       "the_pie": "2024-10-27 18:33:41 +0530",
       "die_potato": "2024-10-27 15:21:22 +0530",
-      "foliage": "2024-10-27 11:58:52 +0530"
+      "foliage": "2024-10-27 11:58:52 +0530",
+      "disen_berry_berry_bad": "2024-10-28 20:27:27 +0530"
     },
     "done": false
   },
@@ -2350,6 +2358,7 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
+      "oak_log": "2024-10-28 20:32:23 +0530",
       "red_bed": "2024-10-27 11:50:46 +0530",
       "rail": "2024-10-27 15:07:05 +0530",
       "cobbled_deepslate": "2024-10-27 11:04:23 +0530",
@@ -2357,7 +2366,8 @@
       "cobblestone": "2024-10-27 11:38:09 +0530",
       "white_bed": "2024-10-26 19:07:51 +0530",
       "andesite": "2024-10-27 11:40:47 +0530",
-      "light_gray_bed": "2024-10-26 19:49:53 +0530"
+      "light_gray_bed": "2024-10-26 19:49:53 +0530",
+      "netherrack": "2024-10-28 20:24:57 +0530"
     },
     "done": false
   },
@@ -5639,6 +5649,7 @@
       "dolphins_grace": "2024-10-27 12:05:34 +0530",
       "speed": "2024-10-27 16:55:12 +0530",
       "poison": "2024-10-27 14:53:30 +0530",
+      "slowness": "2024-10-28 20:30:26 +0530",
       "glowing": "2024-10-27 13:38:19 +0530",
       "wither": "2024-10-27 13:44:13 +0530"
     },
@@ -8012,75 +8023,130 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
+  },
+  "blazeandcave:building/a_good_start": {
+    "criteria": {
+      "oak_log": "2024-10-28 20:32:23 +0530"
+    },
+    "done": true
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
+  "vanilla_refresh:location/the_nether": {
+    "criteria": {
+      "requirement": "2024-10-28 20:22:37 +0530"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
+  },
+  "blazeandcave:nether/nether_rock_collection": {
+    "criteria": {
+      "netherrack": "2024-10-28 20:24:57 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/om_nom_nom": {
+    "criteria": {
+      "trigger": "2024-10-28 20:12:27 +0530"
+    },
+    "done": true
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "requirement": "2024-10-28 20:35:16 +0530",
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
-    "done": false
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-10-28 20:30:36 +0530"
+    },
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-27 19:40:06 +0530"
+      "log_spam_fixer": "2024-10-28 20:35:17 +0530"
     },
     "done": false
+  },
+  "blazeandcave:farming/disen_berry_berry_bad": {
+    "criteria": {
+      "age3": "2024-10-28 20:27:27 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/more_for_me": {
+    "criteria": {
+      "trigger": "2024-10-28 20:12:45 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:building/master_logger": {
+    "criteria": {
+      "oak_log": "2024-10-28 20:32:23 +0530"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/nether/soul_sand_valley": {
+    "criteria": {
+      "requirement": "2024-10-28 20:22:49 +0530"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
