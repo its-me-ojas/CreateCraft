@@ -77,6 +77,7 @@
       "no_chain_no_gain": "2024-10-26 21:37:39 +0530",
       "return_to_sender": "2024-10-27 13:33:29 +0530",
       "acquire_hardware": "2024-10-26 20:17:14 +0530",
+      "hive_mind": "2024-10-29 05:50:58 +0530",
       "care_for_the_environment": "2024-10-27 22:28:39 +0530",
       "hot_stuff": "2024-10-26 21:15:37 +0530",
       "monster_hunter": "2024-10-26 19:58:17 +0530",
@@ -104,6 +105,7 @@
       "farming_root": "2024-10-27 19:36:24 +0530",
       "overkill": "2024-10-27 11:57:10 +0530",
       "a_watery_grave": "2024-10-27 18:39:00 +0530",
+      "flint_miner": "2024-10-29 06:20:34 +0530",
       "creeper_killer": "2024-10-29 03:43:21 +0530",
       "good_lookin_treasure": "2024-10-26 21:38:44 +0530",
       "stepping_on_legos": "2024-10-26 21:39:26 +0530",
@@ -207,6 +209,7 @@
       "comparing_comparator": "2024-10-26 23:37:00 +0530",
       "tactical_fishing": "2024-10-27 15:29:41 +0530",
       "en_garde": "2024-10-27 17:34:03 +0530",
+      "bapple": "2024-10-29 06:45:52 +0530",
       "stem_research": "2024-10-27 01:50:22 +0530",
       "skeleton_smiter": "2024-10-27 18:17:44 +0530",
       "help_ive_been_framed": "2024-10-27 14:24:52 +0530",
@@ -238,6 +241,7 @@
       "pushed_around": "2024-10-28 01:01:10 +0530",
       "basis_of_brewing": "2024-10-27 14:16:08 +0530",
       "rock_bottom": "2024-10-26 21:11:39 +0530",
+      "coal_miner": "2024-10-29 04:36:06 +0530",
       "gilty": "2024-10-26 21:37:39 +0530",
       "ultra_hardcore": "2024-10-26 23:24:07 +0530",
       "bombs_away": "2024-10-28 00:53:51 +0530",
@@ -421,6 +425,7 @@
       "sand": "2024-10-27 13:06:33 +0530",
       "warped_planks": "2024-10-27 01:50:47 +0530",
       "blackstone": "2024-10-26 21:35:12 +0530",
+      "beehive": "2024-10-29 05:50:38 +0530",
       "lilac": "2024-10-28 12:49:11 +0530",
       "soul_torch": "2024-10-27 00:04:50 +0530",
       "polished_blackstone_wall": "2024-10-27 00:45:51 +0530",
@@ -463,6 +468,8 @@
       "cauldron": "2024-10-28 21:40:10 +0530",
       "soul_sand": "2024-10-26 21:23:44 +0530",
       "deepslate": "2024-10-29 01:23:39 +0530",
+      "grass_block": "2024-10-29 04:52:10 +0530",
+      "oxeye_daisy": "2024-10-29 06:53:19 +0530",
       "red_bed": "2024-10-28 22:31:48 +0530",
       "barrel": "2024-10-29 01:16:05 +0530",
       "chain": "2024-10-26 21:37:38 +0530",
@@ -529,6 +536,7 @@
       "nether_brick_stairs": "2024-10-27 00:53:12 +0530",
       "tuff": "2024-10-26 21:07:34 +0530",
       "respawn_anchor": "2024-10-27 00:47:38 +0530",
+      "cornflower": "2024-10-29 05:41:33 +0530",
       "campfire": "2024-10-27 21:40:00 +0530",
       "coal_ore": "2024-10-29 01:20:27 +0530",
       "birch_sapling": "2024-10-27 20:23:07 +0530",
@@ -779,6 +787,7 @@
       "glow_ink_sac": "2024-10-27 14:46:51 +0530",
       "gunpowder": "2024-10-26 20:02:09 +0530",
       "bucket": "2024-10-26 21:15:34 +0530",
+      "honeycomb": "2024-10-29 05:50:57 +0530",
       "writable_book": "2024-10-28 21:00:11 +0530",
       "golden_helmet": "2024-10-26 21:44:28 +0530",
       "white_dye": "2024-10-28 20:09:03 +0530",
@@ -837,6 +846,7 @@
       "sugar_cane": "2024-10-28 23:08:25 +0530",
       "feather": "2024-10-27 23:15:19 +0530",
       "crossbow": "2024-10-26 21:44:29 +0530",
+      "honey_bottle": "2024-10-29 06:43:17 +0530",
       "iron_chestplate": "2024-10-26 23:37:53 +0530",
       "fire_charge": "2024-10-26 19:46:16 +0530",
       "diamond_shovel": "2024-10-27 15:29:52 +0530",
@@ -966,6 +976,7 @@
       "diamond_horse_armor": "2024-10-27 18:47:44 +0530",
       "glowstone_dust": "2024-10-27 14:28:19 +0530",
       "leather_leggings": "2024-10-26 19:48:04 +0530",
+      "flint": "2024-10-29 06:20:33 +0530",
       "string": "2024-10-27 12:30:37 +0530",
       "golden_boots": "2024-10-27 00:11:09 +0530",
       "diamond_axe": "2024-10-26 21:33:09 +0530",
@@ -999,6 +1010,7 @@
       "iron_nugget": "2024-10-27 20:17:22 +0530",
       "enchanted_book": "2024-10-26 21:46:05 +0530",
       "iron_horse_armor": "2024-10-28 19:45:32 +0530",
+      "coal": "2024-10-29 04:36:06 +0530",
       "leather_helmet": "2024-10-26 19:48:26 +0530",
       "iron_hoe": "2024-10-27 19:36:23 +0530",
       "copper_ingot": "2024-10-27 12:16:14 +0530",
@@ -1209,6 +1221,7 @@
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
       "rock_bottom": "2024-10-26 21:11:39 +0530",
+      "coal_miner": "2024-10-29 04:36:06 +0530",
       "deep_slate_nine": "2024-10-26 20:06:02 +0530",
       "thats_the_point": "2024-10-29 03:16:15 +0530",
       "stone_age": "2024-10-26 19:59:27 +0530",
@@ -1233,6 +1246,7 @@
       "diamond_clad": "2024-10-26 20:32:29 +0530",
       "ice_bucket_challenge": "2024-10-26 21:25:37 +0530",
       "tuff_stuff": "2024-10-26 21:07:35 +0530",
+      "flint_miner": "2024-10-29 06:20:34 +0530",
       "aww_it_broke": "2024-10-27 02:11:00 +0530",
       "youll_never_take_me_alive_copper": "2024-10-27 12:12:16 +0530",
       "whats_the_time_mr_wolf": "2024-10-27 01:02:12 +0530",
@@ -1567,6 +1581,7 @@
       "cephalight": "2024-10-27 14:46:51 +0530",
       "the_cutest_predator": "2024-10-27 15:35:11 +0530",
       "cow_tipper": "2024-10-26 19:52:10 +0530",
+      "hive_mind": "2024-10-29 05:50:58 +0530",
       "tickle_time": "2024-10-27 23:15:20 +0530",
       "root": "2024-10-26 19:55:12 +0530",
       "lead_the_way": "2024-10-27 16:10:35 +0530",
@@ -1631,7 +1646,8 @@
       "write_your_thoughts": "2024-10-28 21:00:12 +0530",
       "an_amazing_story": "2024-10-28 21:00:12 +0530",
       "care_for_the_environment": "2024-10-27 22:28:39 +0530",
-      "disen_berry_berry_bad": "2024-10-27 18:56:18 +0530"
+      "disen_berry_berry_bad": "2024-10-27 18:56:18 +0530",
+      "bapple": "2024-10-29 06:45:52 +0530"
     },
     "done": false
   },
@@ -2124,6 +2140,7 @@
       "cooked_porkchop": "2024-10-27 01:27:01 +0530",
       "cooked_mutton": "2024-10-27 16:32:15 +0530",
       "baked_potato": "2024-10-27 21:48:19 +0530",
+      "apple": "2024-10-29 06:45:51 +0530",
       "potato": "2024-10-28 22:13:14 +0530",
       "bread": "2024-10-26 19:55:11 +0530",
       "golden_apple": "2024-10-26 23:24:06 +0530",
@@ -2137,6 +2154,7 @@
       "bread": "2024-10-26 19:55:11 +0530",
       "golden_apple": "2024-10-26 23:24:06 +0530",
       "baked_potato": "2024-10-27 21:48:19 +0530",
+      "apple": "2024-10-29 06:45:51 +0530",
       "potato": "2024-10-28 22:13:14 +0530"
     },
     "done": false
@@ -7563,7 +7581,9 @@
       "poppy": "2024-10-27 16:28:09 +0530",
       "dandelion": "2024-10-27 16:28:01 +0530",
       "lilac": "2024-10-28 12:49:11 +0530",
-      "azure_bluet": "2024-10-28 00:18:17 +0530"
+      "azure_bluet": "2024-10-28 00:18:17 +0530",
+      "cornflower": "2024-10-29 05:41:33 +0530",
+      "oxeye_daisy": "2024-10-29 06:53:19 +0530"
     },
     "done": false
   },
@@ -11913,81 +11933,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:brass_casing": {
     "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:29:40 +0530"
-    },
-    "done": false
-  },
-  "railways:recipes/misc/crafting/track_switch_brass": {
-    "criteria": {
-      "has_item": "2024-10-29 03:41:40 +0530"
+      "0": "2024-10-29 03:36:33 +0530"
     },
     "done": true
   },
@@ -12000,18 +11948,6 @@
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2024-10-29 03:36:36 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/deals_off": {
-    "criteria": {
-      "llama_hurt_player": "2024-10-29 03:38:16 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/creeper_killer": {
-    "criteria": {
-      "gunpowder": "2024-10-29 03:43:20 +0530"
     },
     "done": true
   },
@@ -12039,18 +11975,6 @@
     },
     "done": true
   },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2024-10-29 04:19:50 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/travelling_merchant": {
-    "criteria": {
-      "trade": "2024-10-29 03:38:06 +0530"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2024-10-29 03:36:36 +0530"
@@ -12060,12 +11984,6 @@
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2024-10-29 03:36:36 +0530"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2024-10-29 03:36:33 +0530"
     },
     "done": true
   },
@@ -12081,12 +11999,6 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/remote_lens": {
-    "criteria": {
-      "has_item": "2024-10-29 03:41:40 +0530"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
     "criteria": {
       "has_item": "2024-10-29 03:36:36 +0530"
@@ -12099,9 +12011,321 @@
     },
     "done": true
   },
+  "blazeandcave:adventure/travelling_merchant": {
+    "criteria": {
+      "trade": "2024-10-29 03:38:06 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/deals_off": {
+    "criteria": {
+      "llama_hurt_player": "2024-10-29 03:38:16 +0530"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-10-29 03:41:40 +0530"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-10-29 03:41:40 +0530"
+    },
+    "done": true
+  },
   "create:precision_mechanism": {
     "criteria": {
       "0": "2024-10-29 03:41:40 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/creeper_killer": {
+    "criteria": {
+      "gunpowder": "2024-10-29 03:43:20 +0530"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-10-29 04:19:50 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/coal_miner": {
+    "criteria": {
+      "coal": "2024-10-29 04:36:06 +0530"
+    },
+    "done": true
+  },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2024-10-29 04:45:17 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 06:54:24 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/hive_mind": {
+    "criteria": {
+      "beehive": "2024-10-29 05:50:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-29 06:53:19 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-10-29 04:57:08 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-10-29 05:41:33 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_tuff_brick_slab": "2024-10-29 05:23:23 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/bapple": {
+    "criteria": {
+      "apple": "2024-10-29 06:45:51 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-29 06:43:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-29 06:43:17 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2024-10-29 06:43:44 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2024-10-29 04:50:33 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/flint_miner": {
+    "criteria": {
+      "flint": "2024-10-29 06:20:33 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-10-29 06:43:17 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-10-29 05:50:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:building/grass_type": {
+    "criteria": {
+      "grass_block": "2024-10-29 04:52:10 +0530"
+    },
+    "done": false
+  },
+  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2024-10-29 05:07:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-10-29 06:53:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-10-29 05:50:57 +0530"
     },
     "done": true
   },
