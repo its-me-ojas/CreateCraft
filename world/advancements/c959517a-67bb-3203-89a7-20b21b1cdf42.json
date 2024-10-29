@@ -9659,96 +9659,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-10-29 03:58:56 +0530"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 04:04:41 +0530"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/track_switch_brass": {
-    "criteria": {
-      "has_item": "2024-10-29 02:29:30 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/brass_bars_overlay": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
@@ -9761,75 +9671,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-10-29 02:41:41 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/cyan_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/diamond_backtank": {
-    "criteria": {
-      "has_backtank": "2024-10-29 02:41:44 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/holy_scrap": {
-    "criteria": {
-      "netherite_scrap": "2024-10-29 02:46:48 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-10-29 02:46:48 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/iconic_merchandising_prop": {
-    "criteria": {
-      "diamond_pickaxe": "2024-10-29 02:58:05 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/gray_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/goggle_diamond_helmet": {
-    "criteria": {
-      "has_helmet": "2024-10-29 02:41:40 +0530"
     },
     "done": true
   },
@@ -9845,39 +9695,9 @@
     },
     "done": true
   },
-  "blazeandcave:building/fruit_of_the_looms": {
-    "criteria": {
-      "piglin_banner_pattern": "2024-10-29 02:47:05 +0530"
-    },
-    "done": false
-  },
   "createdeco:recipes/decorations/yellow_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/keep_your_distance": {
-    "criteria": {
-      "creeper": "2024-10-29 03:51:19 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/bapple": {
-    "criteria": {
-      "apple": "2024-10-29 03:58:38 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
     },
     "done": true
   },
@@ -9887,75 +9707,15 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/red_brass_lamp": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/lime_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/what_a_creep": {
-    "criteria": {
-      "creeper": "2024-10-29 03:51:19 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2024-10-29 03:47:30 +0530"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/gilty": {
-    "criteria": {
-      "gilded_blackstone": "2024-10-29 02:46:51 +0530"
     },
     "done": true
   },
@@ -9971,24 +9731,6 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2024-10-29 02:52:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/light_blue_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
@@ -10001,105 +9743,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-10-29 02:37:40 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:building/its_a_trap": {
-    "criteria": {
-      "trapdoor": "2024-10-29 03:47:45 +0530"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull": {
-    "criteria": {
-      "has_item": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/orange_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/nugget_in_a_biscuit": {
-    "criteria": {
-      "mine_nether_gold_ore": "2024-10-29 03:06:20 +0530"
-    },
-    "done": true
-  },
-  "create:deployer": {
-    "criteria": {
-      "0": "2024-10-29 02:24:26 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/pink_placard": {
     "criteria": {
       "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/incendium/infernal_dunes": {
-    "criteria": {
-      "requirement": "2024-10-29 02:52:46 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_hoglin_stable": "2024-10-29 02:45:25 +0530"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2024-10-29 02:34:18 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/diamond_clad": {
-    "criteria": {
-      "diamond_armor": "2024-10-29 02:41:55 +0530"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/meadows": {
-    "criteria": {
-      "requirement": "2024-10-29 03:38:44 +0530"
     },
     "done": true
   },
@@ -10115,9 +9767,135 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+  "createdeco:recipes/decorations/green_brass_lamp": {
     "criteria": {
-      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard": {
+    "criteria": {
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard": {
+    "criteria": {
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cartridge_sheet": {
+    "criteria": {
+      "has_brass_sheet": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_sheet_metal": {
+    "criteria": {
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_placard": {
+    "criteria": {
+      "has_item": "2024-10-29 02:22:22 +0530"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-10-29 02:24:26 +0530"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-10-29 02:29:30 +0530"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-10-29 02:29:30 +0530"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-10-29 02:29:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-10-29 02:34:18 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-10-29 02:36:53 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-10-29 02:36:53 +0530"
     },
     "done": true
   },
@@ -10127,9 +9905,201 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/green_brass_lamp": {
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
     "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
+      "has_item": "2024-10-29 02:37:40 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-10-29 02:37:40 +0530"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/goggle_diamond_helmet": {
+    "criteria": {
+      "has_helmet": "2024-10-29 02:41:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-10-29 02:41:41 +0530"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/diamond_backtank": {
+    "criteria": {
+      "has_backtank": "2024-10-29 02:41:44 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/diamond_clad": {
+    "criteria": {
+      "diamond_armor": "2024-10-29 02:41:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion_remnant": "2024-10-29 02:44:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2024-10-29 02:45:25 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/holy_scrap": {
+    "criteria": {
+      "netherite_scrap": "2024-10-29 02:46:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-29 02:46:48 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/gilty": {
+    "criteria": {
+      "gilded_blackstone": "2024-10-29 02:46:51 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:building/fruit_of_the_looms": {
+    "criteria": {
+      "piglin_banner_pattern": "2024-10-29 02:47:05 +0530"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/incendium/infernal_dunes": {
+    "criteria": {
+      "requirement": "2024-10-29 02:52:46 +0530"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-10-29 02:52:47 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/iconic_merchandising_prop": {
+    "criteria": {
+      "diamond_pickaxe": "2024-10-29 02:58:05 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/nugget_in_a_biscuit": {
+    "criteria": {
+      "mine_nether_gold_ore": "2024-10-29 03:06:20 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/meadows": {
+    "criteria": {
+      "requirement": "2024-10-29 03:38:44 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
     },
     "done": true
   },
@@ -10169,57 +10139,15 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/purple_placard": {
-    "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-10-29 02:37:40 +0530"
-    },
-    "done": true
-  },
   "design_decor:recipes/building_blocks/asurine_castel_tile_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/yellow_brass_lamp": {
-    "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/remote_lens": {
-    "criteria": {
-      "has_item": "2024-10-29 02:29:30 +0530"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/magenta_placard": {
-    "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2024-10-29 02:36:53 +0530"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
-    "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
     },
     "done": true
   },
@@ -10241,45 +10169,136 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion_remnant": "2024-10-29 02:44:53 +0530"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/big_cartridge_sheet": {
-    "criteria": {
-      "has_brass_sheet": "2024-10-29 02:22:22 +0530"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-10-29 03:39:43 +0530"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/brass_sheet_metal": {
+  "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
+      "has_oak_trapdoor": "2024-10-29 03:47:30 +0530"
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "blazeandcave:building/its_a_trap": {
     "criteria": {
-      "0": "2024-10-29 02:29:30 +0530"
+      "trapdoor": "2024-10-29 03:47:45 +0530"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "blazeandcave:monsters/keep_your_distance": {
     "criteria": {
-      "has_item": "2024-10-29 02:36:53 +0530"
+      "creeper": "2024-10-29 03:51:19 +0530"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/green_placard": {
+  "blazeandcave:monsters/what_a_creep": {
     "criteria": {
-      "has_item": "2024-10-29 02:22:22 +0530"
+      "creeper": "2024-10-29 03:51:19 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/bapple": {
+    "criteria": {
+      "apple": "2024-10-29 03:58:38 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-10-29 03:58:56 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-10-29 11:35:29 +0530",
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 11:35:29 +0530"
+    },
+    "done": false
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2024-10-29 11:35:25 +0530"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2024-10-29 11:33:15 +0530"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-10-29 11:33:15 +0530"
     },
     "done": true
   },
