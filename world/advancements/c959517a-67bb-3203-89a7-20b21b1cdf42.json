@@ -141,6 +141,7 @@
       "its_a_trap": "2024-10-29 03:47:45 +0530",
       "ice_bucket_challenge": "2024-10-27 14:14:08 +0530",
       "time_to_chop": "2024-10-26 18:54:08 +0530",
+      "jailhouse_block": "2024-10-29 21:22:52 +0530",
       "bake_bread": "2024-10-26 19:22:42 +0530",
       "poisonous_ew": "2024-10-27 18:42:34 +0530",
       "getting_wood": "2024-10-26 18:28:55 +0530",
@@ -247,6 +248,7 @@
       "statistics_root": "2024-10-26 18:22:13 +0530",
       "ahoy": "2024-10-26 19:03:43 +0530",
       "spider_skeleton": "2024-10-28 21:21:54 +0530",
+      "pathways": "2024-10-29 22:21:19 +0530",
       "aww_it_broke": "2024-10-27 11:02:40 +0530",
       "sheriff_firearm": "2024-10-27 18:08:33 +0530",
       "seeing_red": "2024-10-26 20:36:35 +0530",
@@ -256,6 +258,7 @@
       "comparing_comparator": "2024-10-27 12:59:12 +0530",
       "bapple": "2024-10-29 03:58:39 +0530",
       "a_shiny_treat": "2024-10-27 15:21:33 +0530",
+      "trimming_the_treetops": "2024-10-29 21:03:00 +0530",
       "isnt_it_iron_pick": "2024-10-26 19:54:27 +0530",
       "berry_nice": "2024-10-27 15:53:19 +0530",
       "now_youre_thinking_with_portals": "2024-10-26 19:08:54 +0530",
@@ -283,6 +286,7 @@
       "sneaky_snitch": "2024-10-27 11:08:12 +0530",
       "stairs_no": "2024-10-27 14:29:13 +0530",
       "needle_sharp": "2024-10-26 19:08:59 +0530",
+      "unbreakable": "2024-10-29 20:53:17 +0530",
       "wooly": "2024-10-26 18:54:34 +0530",
       "boing_boing": "2024-10-27 17:45:06 +0530",
       "those_were_the_days": "2024-10-29 02:44:54 +0530",
@@ -303,6 +307,7 @@
       "the_pie": "2024-10-27 18:33:41 +0530",
       "getting_an_upgrade": "2024-10-26 18:53:45 +0530",
       "the_descent": "2024-10-27 14:18:26 +0530",
+      "scourge_of_the_west": "2024-10-29 21:40:16 +0530",
       "x_bow": "2024-10-28 21:22:00 +0530",
       "iconic_merchandising_prop": "2024-10-29 02:58:07 +0530",
       "if_only_cats_grew_into_kittens": "2024-10-27 17:02:29 +0530",
@@ -353,6 +358,7 @@
       "sheriff_firearm": "2024-10-27 18:08:33 +0530",
       "spring_in_your_step": "2024-10-26 19:31:54 +0530",
       "loot_em": "2024-10-26 19:23:22 +0530",
+      "scourge_of_the_west": "2024-10-29 21:40:16 +0530",
       "out_for_a_stroll": "2024-10-27 17:54:02 +0530",
       "luxury_cruise": "2024-10-26 18:41:35 +0530",
       "level_up": "2024-10-27 16:28:47 +0530",
@@ -503,6 +509,7 @@
       "polished_deepslate": "2024-10-29 01:55:17 +0530",
       "spore_blossom": "2024-10-27 15:33:06 +0530",
       "dandelion": "2024-10-27 16:28:17 +0530",
+      "iron_bars": "2024-10-29 21:22:51 +0530",
       "white_carpet": "2024-10-27 17:06:32 +0530",
       "dispenser": "2024-10-28 22:07:09 +0530",
       "chiseled_polished_blackstone": "2024-10-27 11:32:17 +0530",
@@ -528,6 +535,7 @@
       "spruce_log": "2024-10-26 19:23:14 +0530",
       "light_gray_bed": "2024-10-26 19:49:53 +0530",
       "spruce_slab": "2024-10-26 19:03:54 +0530",
+      "oak_leaves": "2024-10-29 21:03:00 +0530",
       "composter": "2024-10-27 12:16:00 +0530",
       "obsidian": "2024-10-27 14:14:07 +0530",
       "crafting_table": "2024-10-26 18:36:31 +0530",
@@ -633,6 +641,7 @@
       "sweeping": "2024-10-27 17:43:47 +0530",
       "efficiency_book": "2024-10-26 20:42:11 +0530",
       "piercing": "2024-10-28 21:22:00 +0530",
+      "mending": "2024-10-29 20:53:17 +0530",
       "protection": "2024-10-27 15:27:41 +0530",
       "frost_walker_book": "2024-10-27 17:43:11 +0530",
       "feather_falling_book": "2024-10-27 15:25:23 +0530",
@@ -667,9 +676,11 @@
       "sweeping3": "2024-10-27 17:43:47 +0530",
       "multishot_book": "2024-10-27 13:21:45 +0530",
       "protection1": "2024-10-27 15:27:41 +0530",
+      "protection4": "2024-10-29 20:53:17 +0530",
       "smite4_book": "2024-10-27 13:21:45 +0530",
       "unbreaking3_book": "2024-10-26 20:42:24 +0530",
       "projectile_protection4_book": "2024-10-27 16:38:20 +0530",
+      "mending": "2024-10-29 20:53:17 +0530",
       "unbreaking1_book": "2024-10-27 17:36:46 +0530",
       "aqua_affinity_book": "2024-10-27 18:40:21 +0530",
       "protection3_book": "2024-10-27 13:21:45 +0530",
@@ -857,6 +868,7 @@
       "nether_wart": "2024-10-27 14:25:31 +0530",
       "mutton": "2024-10-26 18:54:34 +0530",
       "wheat_seeds": "2024-10-27 11:59:26 +0530",
+      "stone_shovel": "2024-10-29 22:21:19 +0530",
       "diamond_sword": "2024-10-27 17:43:47 +0530",
       "cooked_chicken": "2024-10-26 19:10:47 +0530",
       "diamond_horse_armor": "2024-10-27 14:15:54 +0530",
@@ -894,6 +906,7 @@
       "leather": "2024-10-26 19:48:21 +0530",
       "birch_boat": "2024-10-26 18:36:58 +0530",
       "flint_and_steel": "2024-10-26 19:08:57 +0530",
+      "snowball": "2024-10-29 22:21:41 +0530",
       "nautilus_shell": "2024-10-26 18:41:34 +0530",
       "shield": "2024-10-26 19:07:39 +0530",
       "glass_bottle": "2024-10-27 15:41:17 +0530",
@@ -1068,7 +1081,9 @@
       "its_a_trap": "2024-10-29 03:47:45 +0530",
       "clay_dough": "2024-10-27 15:29:59 +0530",
       "stairs_no": "2024-10-27 14:29:13 +0530",
+      "jailhouse_block": "2024-10-29 21:22:52 +0530",
       "torched": "2024-10-26 20:25:49 +0530",
+      "pathways": "2024-10-29 22:21:19 +0530",
       "stationary_storage": "2024-10-26 19:21:46 +0530",
       "its_original_form": "2024-10-27 14:53:07 +0530",
       "classy_glassy": "2024-10-28 22:54:26 +0530",
@@ -1136,6 +1151,7 @@
       "kelp": "2024-10-29 01:50:21 +0530",
       "saddle": "2024-10-26 20:01:30 +0530",
       "iron_axe": "2024-10-27 13:36:16 +0530",
+      "stone_shovel": "2024-10-29 22:21:19 +0530",
       "diamond_sword": "2024-10-27 17:43:47 +0530",
       "diamond_horse_armor": "2024-10-27 14:15:54 +0530",
       "leather_leggings": "2024-10-26 19:22:41 +0530",
@@ -1154,6 +1170,7 @@
       "iron_sword": "2024-10-26 19:54:31 +0530",
       "birch_boat": "2024-10-26 18:36:58 +0530",
       "flint_and_steel": "2024-10-26 19:08:57 +0530",
+      "snowball": "2024-10-29 22:24:15 +0530",
       "shield": "2024-10-26 19:07:39 +0530",
       "leather_chestplate": "2024-10-26 19:22:44 +0530",
       "totem_of_undying": "2024-10-27 15:27:41 +0530",
@@ -1584,6 +1601,7 @@
   },
   "blazeandcave:mining/moar_tools": {
     "criteria": {
+      "stone_shovel": "2024-10-29 22:21:19 +0530",
       "stone_pickaxe": "2024-10-26 18:53:45 +0530",
       "stone_axe": "2024-10-26 18:54:08 +0530"
     },
@@ -1943,6 +1961,7 @@
       "kelp_me": "2024-10-26 18:55:10 +0530",
       "the_garbage_will_do": "2024-10-27 12:16:02 +0530",
       "bake_bread": "2024-10-26 19:22:42 +0530",
+      "trimming_the_treetops": "2024-10-29 21:03:00 +0530",
       "berry_nice": "2024-10-27 15:53:19 +0530",
       "sugar_sugar": "2024-10-26 19:03:38 +0530",
       "the_pie": "2024-10-27 18:33:41 +0530",
@@ -2553,6 +2572,7 @@
   "blazeandcave:bacap/enchanting_milestone": {
     "criteria": {
       "needle_sharp": "2024-10-26 19:08:59 +0530",
+      "unbreakable": "2024-10-29 20:53:17 +0530",
       "shotbow": "2024-10-28 21:48:36 +0530"
     },
     "done": false
@@ -2572,6 +2592,8 @@
       "multishot": "2024-10-28 21:22:00 +0530",
       "loyalty_book": "2024-10-27 13:21:45 +0530",
       "sweeping": "2024-10-27 17:43:47 +0530",
+      "mending": "2024-10-29 20:53:17 +0530",
+      "protection": "2024-10-29 20:53:17 +0530",
       "unbreaking_book": "2024-10-26 20:42:24 +0530",
       "aqua_affinity_book": "2024-10-27 18:40:21 +0530",
       "binding_curse": "2024-10-27 15:50:09 +0530"
@@ -10220,7 +10242,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2024-10-29 03:58:56 +0530"
+      "requirement": "2024-10-29 22:17:03 +0530"
     },
     "done": true
   },
@@ -10254,81 +10276,45 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-29 13:30:31 +0530"
-    },
-    "done": false
-  },
   "create:funnel": {
     "criteria": {
       "0": "2024-10-29 12:52:11 +0530"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2024-10-29 12:53:22 +0530"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2024-10-29 12:53:22 +0530"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2024-10-29 12:54:56 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2024-10-29 13:05:37 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2024-10-29 13:05:53 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/space_hopper": {
+    "criteria": {
+      "hopper": "2024-10-29 13:12:53 +0530"
     },
     "done": true
   },
@@ -10350,33 +10336,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
-    "criteria": {
-      "has_item": "2024-10-29 13:05:37 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-10-29 13:26:09 +0530"
     },
     "done": true
   },
-  "create:arm_many_targets": {
-    "criteria": {
-      "0": "2024-10-29 12:53:22 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-10-29 13:26:09 +0530"
-    },
-    "done": true
-  },
-  "create:arm_blaze_burner": {
-    "criteria": {
-      "0": "2024-10-29 12:53:22 +0530"
     },
     "done": true
   },
@@ -10389,12 +10357,6 @@
   "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-10-29 13:26:09 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/space_hopper": {
-    "criteria": {
-      "hopper": "2024-10-29 13:12:53 +0530"
     },
     "done": true
   },
@@ -10419,12 +10381,6 @@
   "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
     "criteria": {
       "has_item": "2024-10-29 13:26:09 +0530"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
-    "criteria": {
-      "has_item": "2024-10-29 13:05:53 +0530"
     },
     "done": true
   },
@@ -10458,9 +10414,135 @@
     },
     "done": true
   },
-  "create:mechanical_arm": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "0": "2024-10-29 12:54:56 +0530"
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-29 22:24:46 +0530"
+    },
+    "done": false
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-10-29 21:03:49 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/unbreakable": {
+    "criteria": {
+      "mending": "2024-10-29 20:53:17 +0530"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-10-29 21:03:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-10-29 22:21:41 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/scourge_of_the_west": {
+    "criteria": {
+      "trigger": "2024-10-29 21:40:15 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:building/jailhouse_block": {
+    "criteria": {
+      "iron_bars": "2024-10-29 21:22:51 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/trimming_the_treetops": {
+    "criteria": {
+      "leaves": "2024-10-29 21:03:00 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:building/pathways": {
+    "criteria": {
+      "dirt_path": "2024-10-29 22:21:19 +0530"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2024-10-29 22:12:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-10-29 22:21:41 +0530"
     },
     "done": true
   },
