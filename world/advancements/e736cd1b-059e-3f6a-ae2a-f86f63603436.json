@@ -187,6 +187,7 @@
       "diamonds": "2024-10-26 20:06:34 +0530",
       "eeuuwww": "2024-10-26 20:19:40 +0530",
       "still_talking": "2024-10-27 17:35:05 +0530",
+      "obsidian_miner": "2024-10-30 21:46:35 +0530",
       "monsters_root": "2024-10-26 19:57:14 +0530",
       "quirky_quartz": "2024-10-26 23:30:48 +0530",
       "boned": "2024-10-27 22:31:23 +0530",
@@ -202,6 +203,7 @@
       "naturally_carved": "2024-10-29 20:04:42 +0530",
       "fiery": "2024-10-27 00:12:33 +0530",
       "dont_blink": "2024-10-27 01:57:39 +0530",
+      "skys_the_limit": "2024-10-30 18:55:38 +0530",
       "spider_smasher": "2024-10-27 12:30:37 +0530",
       "a_throwaway_joke": "2024-10-27 11:58:27 +0530",
       "atlantis": "2024-10-28 00:59:25 +0530",
@@ -585,6 +587,7 @@
       "stone_brick_stairs": "2024-10-28 00:30:25 +0530",
       "spruce_trapdoor": "2024-10-27 20:30:54 +0530",
       "spruce_slab": "2024-10-27 12:00:44 +0530",
+      "oak_door": "2024-10-30 22:37:26 +0530",
       "polished_blackstone": "2024-10-27 00:45:46 +0530",
       "composter": "2024-10-30 12:59:38 +0530",
       "copper_ore": "2024-10-28 21:07:53 +0530",
@@ -627,6 +630,7 @@
       "oak_planks": "2024-10-26 17:39:52 +0530",
       "oak_slab": "2024-10-28 21:28:11 +0530",
       "oak_fence": "2024-10-30 03:34:58 +0530",
+      "oak_door": "2024-10-30 22:37:26 +0530",
       "oak_stairs": "2024-10-30 03:31:28 +0530",
       "oak_log": "2024-10-26 17:39:35 +0530",
       "stripped_oak_log": "2024-10-27 22:20:56 +0530"
@@ -929,6 +933,7 @@
       "iron_sword": "2024-10-26 19:57:13 +0530",
       "golden_leggings": "2024-10-26 21:36:37 +0530",
       "leather": "2024-10-26 19:52:09 +0530",
+      "elytra": "2024-10-30 18:55:37 +0530",
       "spectral_arrow": "2024-10-27 00:55:25 +0530",
       "flint_and_steel": "2024-10-26 21:17:13 +0530",
       "snowball": "2024-10-30 11:44:41 +0530",
@@ -1055,6 +1060,7 @@
       "saddle": "2024-10-26 21:42:21 +0530",
       "iron_axe": "2024-10-27 13:34:54 +0530",
       "gold_ingot": "2024-10-27 00:54:47 +0530",
+      "nether_wart": "2024-10-30 19:05:17 +0530",
       "wheat_seeds": "2024-10-29 23:21:28 +0530",
       "diamond_sword": "2024-10-26 21:32:45 +0530",
       "diamond_horse_armor": "2024-10-27 18:47:44 +0530",
@@ -1070,12 +1076,14 @@
       "diamond_pickaxe": "2024-10-26 20:15:04 +0530",
       "bone": "2024-10-27 18:17:43 +0530",
       "golden_carrot": "2024-10-30 09:44:07 +0530",
+      "sugar_cane": "2024-10-30 19:08:39 +0530",
       "crossbow": "2024-10-26 21:44:29 +0530",
       "iron_chestplate": "2024-10-26 23:37:53 +0530",
       "diamond_shovel": "2024-10-27 15:29:52 +0530",
       "golden_horse_armor": "2024-10-27 14:25:27 +0530",
       "iron_sword": "2024-10-26 19:57:13 +0530",
       "golden_leggings": "2024-10-26 21:36:37 +0530",
+      "elytra": "2024-10-30 18:55:37 +0530",
       "flint_and_steel": "2024-10-26 21:17:13 +0530",
       "shield": "2024-10-26 20:01:04 +0530",
       "leather_chestplate": "2024-10-26 19:52:07 +0530",
@@ -1083,6 +1091,7 @@
       "axolotl_bucket": "2024-10-27 15:35:11 +0530",
       "iron_ingot": "2024-10-27 00:55:12 +0530",
       "music_disc_otherside": "2024-10-29 17:12:55 +0530",
+      "potato": "2024-10-30 19:07:33 +0530",
       "lapis_lazuli": "2024-10-29 15:39:24 +0530",
       "lava_bucket": "2024-10-26 21:15:36 +0530",
       "bread": "2024-10-30 10:18:23 +0530",
@@ -1090,6 +1099,7 @@
       "rotten_flesh": "2024-10-29 01:27:09 +0530",
       "dried_kelp": "2024-10-29 02:41:33 +0530",
       "tnt_minecart": "2024-10-29 18:25:21 +0530",
+      "beetroot_seeds": "2024-10-30 19:01:06 +0530",
       "raw_iron": "2024-10-26 20:37:29 +0530",
       "golden_sword": "2024-10-26 21:36:37 +0530",
       "arrow": "2024-10-27 01:27:16 +0530",
@@ -1350,6 +1360,7 @@
       "ice_bucket_challenge": "2024-10-26 21:25:37 +0530",
       "tuff_stuff": "2024-10-26 21:07:35 +0530",
       "flint_miner": "2024-10-29 06:20:34 +0530",
+      "obsidian_miner": "2024-10-30 21:46:35 +0530",
       "sneak_100": "2024-10-29 16:52:10 +0530",
       "aww_it_broke": "2024-10-27 02:11:00 +0530",
       "youll_never_take_me_alive_copper": "2024-10-27 12:12:16 +0530",
@@ -1678,6 +1689,7 @@
     "criteria": {
       "furnace": "2024-10-27 12:10:09 +0530",
       "redstone_ore": "2024-10-29 16:38:57 +0530",
+      "oak_door": "2024-10-30 22:37:26 +0530",
       "observer": "2024-10-27 01:07:53 +0530",
       "armor_stand": "2024-10-27 00:44:07 +0530",
       "composter": "2024-10-30 12:59:38 +0530",
@@ -3382,6 +3394,7 @@
       "oak_sapling": "2024-10-28 00:28:19 +0530",
       "andesite": "2024-10-27 11:36:46 +0530",
       "copper_ore": "2024-10-30 06:59:56 +0530",
+      "obsidian": "2024-10-30 21:46:35 +0530",
       "stone": "2024-10-29 01:21:10 +0530",
       "tuff": "2024-10-27 21:59:13 +0530",
       "oak_planks": "2024-10-28 00:23:42 +0530"
@@ -5840,6 +5853,7 @@
     "criteria": {
       "cooked_porkchop": "2024-10-27 02:00:44 +0530",
       "apple": "2024-10-30 06:57:21 +0530",
+      "potato": "2024-10-30 19:07:33 +0530",
       "bread": "2024-10-30 10:18:23 +0530",
       "rotten_flesh": "2024-10-29 01:27:09 +0530",
       "dried_kelp": "2024-10-29 02:41:33 +0530",
@@ -12166,12 +12180,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-10-29 03:24:16 +0530"
-    },
-    "done": true
-  },
   "create:brass_casing": {
     "criteria": {
       "0": "2024-10-29 03:36:33 +0530"
@@ -13762,75 +13770,117 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-10-30 18:47:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-30 18:55:37 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/end_milestone": {
+    "criteria": {
+      "skys_the_limit": "2024-10-30 18:55:38 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:nether/hell_botanist": {
+    "criteria": {
+      "nether_wart": "2024-10-30 19:05:17 +0530"
+    },
+    "done": false
+  },
+  "create:cuckoo_clock": {
+    "criteria": {
+      "0": "2024-10-30 21:36:28 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/obsidian_miner": {
+    "criteria": {
+      "obsidian": "2024-10-30 21:46:35 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-10-30 21:54:51 +0530"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "log_spam_fixer": "2024-10-30 23:08:27 +0530"
     },
     "done": false
   },

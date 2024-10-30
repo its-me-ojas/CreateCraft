@@ -159,6 +159,7 @@
       "black_belt_ninja": "2024-10-29 22:35:51 +0530",
       "farming_root": "2024-10-29 16:12:17 +0530",
       "delicious_fish": "2024-10-29 23:28:04 +0530",
+      "space_hopper": "2024-10-30 21:57:43 +0530",
       "level_up": "2024-10-29 16:54:32 +0530",
       "hot_topic": "2024-10-28 22:35:03 +0530",
       "horse_training": "2024-10-30 13:13:05 +0530",
@@ -196,6 +197,7 @@
       "ew_ew_ew": "2024-10-29 23:38:54 +0530",
       "kilometre_walk": "2024-10-28 22:52:36 +0530",
       "cut_in_half": "2024-10-29 21:55:43 +0530",
+      "heavy_metal": "2024-10-30 22:20:17 +0530",
       "we_need_to_go_deeper": "2024-10-29 02:02:36 +0530",
       "dead_dont_die": "2024-10-28 22:38:43 +0530",
       "luxury_cruise": "2024-10-28 23:44:27 +0530",
@@ -218,6 +220,7 @@
       "diamond_miner": "2024-10-29 16:58:23 +0530",
       "ahoy": "2024-10-28 22:49:45 +0530",
       "aww_it_broke": "2024-10-29 01:07:35 +0530",
+      "ricochet_swoop": "2024-10-30 22:01:25 +0530",
       "seeing_red": "2024-10-29 00:37:31 +0530",
       "ladder_climbers_inc": "2024-10-29 00:19:45 +0530",
       "the_sea_calls_you": "2024-10-28 22:45:56 +0530",
@@ -251,6 +254,7 @@
       "needle_sharp": "2024-10-30 12:19:10 +0530",
       "unbreakable": "2024-10-30 00:05:51 +0530",
       "wooly": "2024-10-28 23:09:06 +0530",
+      "boing_boing": "2024-10-30 22:02:48 +0530",
       "murderer": "2024-10-29 23:59:29 +0530",
       "those_were_the_days": "2024-10-29 17:20:25 +0530",
       "smooth_operator": "2024-10-29 16:21:31 +0530",
@@ -360,11 +364,13 @@
       "red_bed": "2024-10-29 17:26:42 +0530",
       "barrel": "2024-10-29 21:56:13 +0530",
       "oak_fence": "2024-10-28 23:11:15 +0530",
+      "iron_block": "2024-10-30 22:20:02 +0530",
       "pink_tulip": "2024-10-28 22:30:34 +0530",
       "rail": "2024-10-29 00:35:45 +0530",
       "cracked_stone_bricks": "2024-10-28 22:39:56 +0530",
       "birch_planks": "2024-10-28 22:32:41 +0530",
       "gray_wool": "2024-10-30 13:10:30 +0530",
+      "hopper": "2024-10-30 21:57:43 +0530",
       "mossy_cobblestone": "2024-10-30 00:30:17 +0530",
       "cobbled_deepslate": "2024-10-29 00:38:37 +0530",
       "dark_oak_planks": "2024-10-29 00:01:36 +0530",
@@ -375,6 +381,7 @@
       "iron_bars": "2024-10-29 22:21:45 +0530",
       "dead_bush": "2024-10-28 22:40:05 +0530",
       "detector_rail": "2024-10-29 00:35:48 +0530",
+      "anvil": "2024-10-30 22:20:17 +0530",
       "torch": "2024-10-28 22:38:18 +0530",
       "spruce_planks": "2024-10-29 00:18:22 +0530",
       "dirt": "2024-10-28 22:53:45 +0530",
@@ -1130,7 +1137,8 @@
       "detector_rail": "2024-10-29 00:35:48 +0530",
       "string": "2024-10-29 21:58:07 +0530",
       "white_wool": "2024-10-28 23:09:06 +0530",
-      "barrel": "2024-10-29 21:56:13 +0530"
+      "barrel": "2024-10-29 21:56:13 +0530",
+      "hopper": "2024-10-30 21:57:43 +0530"
     },
     "done": false
   },
@@ -1291,6 +1299,7 @@
       "spooky_skeleton": "2024-10-29 17:11:23 +0530",
       "ew_ew_ew": "2024-10-29 23:38:54 +0530",
       "boned": "2024-10-29 22:05:31 +0530",
+      "ricochet_swoop": "2024-10-30 22:01:25 +0530",
       "dead_dont_die": "2024-10-28 22:38:43 +0530",
       "root": "2024-10-29 21:44:28 +0530",
       "monster_hunter": "2024-10-28 22:38:43 +0530",
@@ -1593,6 +1602,7 @@
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "black_belt_ninja": "2024-10-29 22:35:51 +0530",
+      "boing_boing": "2024-10-30 22:02:48 +0530",
       "spring_in_your_step": "2024-10-28 23:34:52 +0530",
       "loot_em": "2024-10-29 16:17:44 +0530",
       "out_for_a_stroll": "2024-10-29 17:41:33 +0530",
@@ -1823,6 +1833,7 @@
       "under_pressure": "2024-10-28 22:55:41 +0530",
       "quirky_quartz": "2024-10-29 02:06:46 +0530",
       "pressure_detector": "2024-10-29 00:35:49 +0530",
+      "space_hopper": "2024-10-30 21:57:43 +0530",
       "electric_rails": "2024-10-29 01:14:52 +0530"
     },
     "done": false
@@ -2477,6 +2488,7 @@
   },
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
+      "skeleton": "2024-10-30 22:28:34 +0530",
       "zombie": "2024-10-28 23:48:18 +0530",
       "creeper": "2024-10-28 23:41:27 +0530"
     },
@@ -4764,12 +4776,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-10-29 21:40:57 +0530"
-    },
-    "done": true
-  },
   "creategoggles:recipes/diamond_backtank": {
     "criteria": {
       "has_backtank": "2024-10-29 21:43:42 +0530"
@@ -4841,6 +4847,7 @@
       "pillager": "2024-10-29 22:39:52 +0530",
       "skeleton": "2024-10-29 22:00:34 +0530",
       "zombie": "2024-10-29 21:53:04 +0530",
+      "phantom": "2024-10-30 22:01:24 +0530",
       "spider": "2024-10-29 23:38:50 +0530"
     },
     "done": false
@@ -5789,7 +5796,8 @@
   "blazeandcave:bacap/enchanting_milestone": {
     "criteria": {
       "needle_sharp": "2024-10-30 12:19:10 +0530",
-      "unbreakable": "2024-10-30 00:05:51 +0530"
+      "unbreakable": "2024-10-30 00:05:51 +0530",
+      "heavy_metal": "2024-10-30 22:20:17 +0530"
     },
     "done": false
   },
@@ -5943,82 +5951,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:farming/a_gluttonous_diet": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "carrot": "2024-10-30 12:51:26 +0530"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "blazeandcave:building/its_a_trap": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-10-30 13:23:05 +0530",
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "trapdoor": "2024-10-30 12:55:03 +0530"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "blazeandcave:farming/the_garbage_will_do": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
+      "composter": "2024-10-30 12:59:21 +0530"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "blazeandcave:animal/have_a_shearful_day": {
     "criteria": {
-      "log_spam_fixer": "2024-10-30 13:23:03 +0530"
-    },
-    "done": false
-  },
-  "blazeandcave:statistics/horse_training": {
-    "criteria": {
-      "trigger": "2024-10-30 13:13:04 +0530"
+      "shears": "2024-10-30 13:10:22 +0530"
     },
     "done": true
   },
@@ -6034,33 +5987,165 @@
     },
     "done": true
   },
-  "blazeandcave:farming/the_garbage_will_do": {
-    "criteria": {
-      "composter": "2024-10-30 12:59:21 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/a_gluttonous_diet": {
-    "criteria": {
-      "carrot": "2024-10-30 12:51:26 +0530"
-    },
-    "done": false
-  },
-  "blazeandcave:building/its_a_trap": {
-    "criteria": {
-      "trapdoor": "2024-10-30 12:55:03 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/have_a_shearful_day": {
-    "criteria": {
-      "shears": "2024-10-30 13:10:22 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-10-30 13:10:30 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/horse_training": {
+    "criteria": {
+      "trigger": "2024-10-30 13:13:04 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-30 22:30:27 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-10-30 22:20:02 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/ricochet_swoop": {
+    "criteria": {
+      "deflected_swoop": "2024-10-30 22:01:24 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/heavy_metal": {
+    "criteria": {
+      "anvil": "2024-10-30 22:20:17 +0530"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-10-30 22:04:57 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/anvil": {
+    "criteria": {
+      "requirement": "2024-10-30 22:20:17 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/boing_boing": {
+    "criteria": {
+      "trigger": "2024-10-30 22:02:47 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-10-30 22:20:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-10-30 22:20:02 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/space_hopper": {
+    "criteria": {
+      "hopper": "2024-10-30 21:57:43 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/spreading_corruption": {
+    "criteria": {
+      "netherrack": "2024-10-30 22:27:05 +0530"
+    },
+    "done": false
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2024-10-30 22:20:02 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/mineral_collection": {
+    "criteria": {
+      "iron_block": "2024-10-30 22:20:02 +0530"
+    },
+    "done": false
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-10-30 22:20:02 +0530"
     },
     "done": true
   },
