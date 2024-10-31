@@ -220,6 +220,7 @@
       "the_tribal_snouts": "2024-10-27 00:19:49 +0530",
       "gotta_go_fast": "2024-10-26 21:46:06 +0530",
       "aww_it_broke": "2024-10-27 02:11:00 +0530",
+      "a_soul_for_a_soul": "2024-10-31 15:54:13 +0530",
       "cephalight": "2024-10-27 14:46:51 +0530",
       "sheriff_firearm": "2024-10-27 17:25:17 +0530",
       "pick_like_silk": "2024-10-29 18:06:55 +0530",
@@ -346,6 +347,7 @@
       "youll_never_take_me_alive_copper": "2024-10-27 12:12:16 +0530",
       "whats_the_time_mr_wolf": "2024-10-27 01:02:12 +0530",
       "x_marks_the_spot": "2024-10-28 00:53:43 +0530",
+      "stayin_frosty": "2024-10-31 16:25:46 +0530",
       "glows_in_the_dark": "2024-10-27 13:38:17 +0530",
       "an_amazing_story": "2024-10-28 21:00:12 +0530",
       "festival_of_lights": "2024-10-27 23:15:31 +0530",
@@ -510,6 +512,7 @@
       "zombie_head": "2024-10-27 17:35:04 +0530",
       "moss_carpet": "2024-10-27 15:28:59 +0530",
       "red_sand": "2024-10-28 12:26:40 +0530",
+      "clay": "2024-10-31 15:56:17 +0530",
       "white_wool": "2024-10-26 19:48:12 +0530",
       "repeater": "2024-10-26 23:37:00 +0530",
       "hay_block": "2024-10-27 18:21:24 +0530",
@@ -587,6 +590,7 @@
       "poppy": "2024-10-27 16:28:09 +0530",
       "stone_brick_stairs": "2024-10-28 00:30:25 +0530",
       "spruce_trapdoor": "2024-10-27 20:30:54 +0530",
+      "soul_campfire": "2024-10-31 15:54:07 +0530",
       "spruce_slab": "2024-10-27 12:00:44 +0530",
       "oak_door": "2024-10-30 22:37:26 +0530",
       "polished_blackstone": "2024-10-27 00:45:46 +0530",
@@ -2868,6 +2872,7 @@
       "darkness": "2024-10-29 16:58:34 +0530",
       "poison": "2024-10-26 20:15:54 +0530",
       "absorption": "2024-10-26 23:24:06 +0530",
+      "blindness": "2024-10-31 15:56:27 +0530",
       "slowness": "2024-10-27 00:46:05 +0530",
       "fire_resistance": "2024-10-30 04:11:04 +0530",
       "resistance": "2024-10-30 04:11:04 +0530",
@@ -3383,6 +3388,7 @@
       "crimson_stem": "2024-10-27 01:50:49 +0530",
       "oak_slab": "2024-10-28 21:28:11 +0530",
       "zombie_head": "2024-10-28 22:01:32 +0530",
+      "clay": "2024-10-31 15:56:17 +0530",
       "hay_block": "2024-10-30 06:45:22 +0530",
       "deepslate": "2024-10-29 20:38:45 +0530",
       "red_bed": "2024-10-28 22:31:48 +0530",
@@ -4117,6 +4123,7 @@
       "get_a_lode_of_this": "2024-10-28 12:12:24 +0530",
       "hot_spring": "2024-10-27 01:08:42 +0530",
       "diamonds_are_not_forever": "2024-10-28 12:04:00 +0530",
+      "a_soul_for_a_soul": "2024-10-31 15:54:13 +0530",
       "return_to_sender": "2024-10-27 13:33:29 +0530",
       "when_piglins_fly": "2024-10-27 01:26:36 +0530",
       "those_were_the_days": "2024-10-26 21:35:14 +0530",
@@ -13815,77 +13822,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:train_casing_00": {
     "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
+      "0": "2024-10-31 01:29:32 +0530"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 01:34:47 +0530"
-    },
-    "done": false
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/train_trapdoor": {
     "criteria": {
@@ -13902,12 +13843,6 @@
   "create:recipes/misc/crafting/kinetics/controls": {
     "criteria": {
       "has_item": "2024-10-31 01:31:51 +0530"
-    },
-    "done": true
-  },
-  "create:train_casing_00": {
-    "criteria": {
-      "0": "2024-10-31 01:29:32 +0530"
     },
     "done": true
   },
@@ -13940,6 +13875,102 @@
       "has_item": "2024-10-31 01:31:51 +0530"
     },
     "done": true
+  },
+  "blazeandcave:nether/a_soul_for_a_soul": {
+    "criteria": {
+      "soul_campfire": "2024-10-31 15:54:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-10-31 15:56:17 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/stayin_frosty": {
+    "criteria": {
+      "fire_resistance": "2024-10-31 16:25:45 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/potion_milestone": {
+    "criteria": {
+      "stayin_frosty": "2024-10-31 16:25:46 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-31 16:33:41 +0530"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
