@@ -149,6 +149,7 @@
       "aww_man": "2024-10-27 11:25:16 +0530",
       "thats_the_point": "2024-10-29 03:16:15 +0530",
       "the_phantom_menace": "2024-10-28 12:31:27 +0530",
+      "the_way_to_spawn": "2024-11-02 05:24:03 +0530",
       "deals_off": "2024-10-29 03:38:16 +0530",
       "flying_colors": "2024-10-30 04:04:38 +0530",
       "copper_miner": "2024-10-26 20:37:18 +0530",
@@ -608,6 +609,7 @@
       "rail": "2024-10-26 20:16:26 +0530",
       "white_banner": "2024-10-30 09:29:09 +0530",
       "red_carpet": "2024-10-27 00:52:41 +0530",
+      "oak_wood": "2024-11-02 03:04:05 +0530",
       "crimson_planks": "2024-10-27 01:50:37 +0530",
       "skeleton_skull": "2024-10-27 18:04:51 +0530",
       "cracked_stone_bricks": "2024-10-31 22:57:09 +0530",
@@ -626,6 +628,7 @@
       "ender_chest": "2024-10-28 00:34:15 +0530",
       "polished_blackstone_bricks": "2024-10-26 21:40:06 +0530",
       "furnace": "2024-10-27 12:10:09 +0530",
+      "stone_slab": "2024-11-02 05:03:03 +0530",
       "dandelion": "2024-10-27 16:28:01 +0530",
       "mangrove_roots": "2024-10-31 23:34:19 +0530",
       "iron_bars": "2024-10-27 00:43:57 +0530",
@@ -721,6 +724,7 @@
       "oak_door": "2024-10-30 22:37:26 +0530",
       "oak_stairs": "2024-10-30 03:31:28 +0530",
       "oak_log": "2024-10-26 17:39:35 +0530",
+      "oak_wood": "2024-11-02 03:04:05 +0530",
       "oak_boat": "2024-10-31 23:29:04 +0530",
       "stripped_oak_log": "2024-10-27 22:20:56 +0530"
     },
@@ -1088,6 +1092,7 @@
       "iron_horse_armor": "2024-10-28 19:45:32 +0530",
       "clock": "2024-10-27 01:02:12 +0530",
       "item_frame": "2024-10-27 14:24:52 +0530",
+      "compass": "2024-11-02 05:24:03 +0530",
       "coal": "2024-10-26 19:57:14 +0530",
       "leather_helmet": "2024-10-26 19:48:26 +0530",
       "blue_dye": "2024-10-29 00:06:00 +0530",
@@ -1460,6 +1465,7 @@
       "deep_slate_nine": "2024-10-26 20:06:02 +0530",
       "even_moar_tools": "2024-10-29 17:01:35 +0530",
       "thats_the_point": "2024-10-29 03:16:15 +0530",
+      "the_way_to_spawn": "2024-11-02 05:24:03 +0530",
       "stone_age": "2024-10-26 19:59:27 +0530",
       "isnt_it_iron_pick": "2024-10-26 19:57:13 +0530",
       "gold_rush": "2024-10-26 20:18:07 +0530",
@@ -3535,6 +3541,7 @@
       "cyan_terracotta": "2024-10-26 23:39:13 +0530",
       "nether_wart_block": "2024-11-01 00:47:22 +0530",
       "sand": "2024-11-01 16:22:12 +0530",
+      "diorite": "2024-11-02 03:02:00 +0530",
       "cobweb": "2024-10-29 16:33:44 +0530",
       "oak_log": "2024-10-28 11:58:47 +0530",
       "crimson_stem": "2024-10-27 01:50:49 +0530",
@@ -3546,6 +3553,7 @@
       "deepslate": "2024-10-29 20:38:45 +0530",
       "black_bed": "2024-11-01 22:35:52 +0530",
       "red_bed": "2024-10-28 22:31:48 +0530",
+      "oak_wood": "2024-11-02 03:04:05 +0530",
       "crimson_planks": "2024-10-27 02:01:46 +0530",
       "birch_planks": "2024-10-28 02:13:58 +0530",
       "cobbled_deepslate": "2024-10-26 20:25:08 +0530",
@@ -5670,6 +5678,7 @@
       "nether_brick_slab": "2024-10-27 00:53:11 +0530",
       "spruce_slab": "2024-10-27 12:00:44 +0530",
       "oak_slab": "2024-10-28 21:28:11 +0530",
+      "stone_slab": "2024-11-02 05:03:03 +0530",
       "cobblestone_slab": "2024-10-27 19:24:41 +0530",
       "warped_slab": "2024-11-01 22:09:39 +0530",
       "polished_blackstone_slab": "2024-10-27 01:44:34 +0530",
@@ -14767,81 +14776,51 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:water_supply": {
     "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
+      "0": "2024-11-01 22:26:25 +0530"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-01 23:12:25 +0530"
-    },
-    "done": false
+    "done": true
   },
   "blazeandcave:building/raise_the_flag": {
     "criteria": {
       "banner": "2024-11-01 22:49:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-01 22:50:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-11-01 22:50:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-11-01 22:50:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-01 22:50:32 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-11-01 22:50:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-11-01 22:50:32 +0530"
     },
     "done": true
   },
@@ -14863,21 +14842,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-01 22:50:32 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2024-11-01 22:51:24 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-11-01 22:50:32 +0530"
     },
     "done": true
   },
@@ -14887,33 +14854,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-11-01 22:50:32 +0530"
-    },
-    "done": true
-  },
-  "create:water_supply": {
-    "criteria": {
-      "0": "2024-11-01 22:26:25 +0530"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/purple_placard_from_dyeing": {
     "criteria": {
       "has_dye": "2024-11-01 22:51:24 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_candle": {
-    "criteria": {
-      "has_light_blue_dye": "2024-11-01 22:50:32 +0530"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_blue_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-11-01 22:50:32 +0530"
     },
     "done": true
   },
@@ -14923,9 +14866,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_needed_dye": "2024-11-01 22:50:32 +0530"
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-02 05:59:54 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-11-02 05:03:03 +0530"
+    },
+    "done": true
+  },
+  "create:track_crafting_factory": {
+    "criteria": {
+      "0": "2024-11-02 05:28:02 +0530"
+    },
+    "done": true
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2024-11-02 05:49:03 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/the_way_to_spawn": {
+    "criteria": {
+      "compass": "2024-11-02 05:24:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-11-02 05:24:03 +0530"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-11-02 05:13:16 +0530"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2024-11-02 05:34:36 +0530"
     },
     "done": true
   },
