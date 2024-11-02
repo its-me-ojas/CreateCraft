@@ -1,37 +1,37 @@
-[01:33:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[01:33:45] [INIT] Loaded plugins:
-[01:33:45] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[01:33:45] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[01:33:45] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[01:33:45] [INFO] Loaded script server_scripts:custom_zinc.js in 0.021 s
-[01:33:45] [INFO] Loaded script server_scripts:custom_netherrack_haunting.js in 0.001 s
-[01:33:45] [INFO] Loaded script server_scripts:custom_copper.js in 0.001 s
-[01:33:45] [INFO] Loaded script server_scripts:custom_tuff.js in 0.001 s
-[01:33:45] [INFO] Loaded 5/5 KubeJS server scripts in 0.067 s with 0 errors and 0 warnings
-[01:33:45] [INFO] Scripts loaded
-[01:33:45] [INFO] Initializing recipe event...
-[01:33:59] [INFO] Processing recipes...
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/gold_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/cast_iron_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/brass_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/red_container[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/blue_container[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/copper_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/green_container[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/aluminium_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/industrial_iron_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/andesite_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/capitalism_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/metals/iron/bolt[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/metals/iron/screw[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[01:33:59] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/zinc_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[01:33:59] [INFO] Found 7963 recipes in 309.5 ms
-[01:33:59] [INFO] Posted recipe events in 21.52 ms
-[01:33:59] [WARN] Error parsing recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"design_decor:aluminum_boiler"},{"item":"minecraft:pink_dye"}],"results":[{"item":"design_decor:aluminum_boiler_special"}]}: Unknown item 'design_decor:aluminum_boiler'
-[01:33:59] [WARN] Error parsing recipe createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"immersiveengineering:blastbrick"},{"tag":"forge:plates/steel"}],"results":[{"item":"immersiveengineering:blastbrick_reinforced"}],"conditions":[{"type":"forge:mod_loaded","modid":"immersiveengineering"}]}: Unknown item 'immersiveengineering:blastbrick'
-[01:33:59] [WARN] Error parsing recipe createaddition:compat/immersiveengineering/item_application/leaded_concrete[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"immersiveengineering:concrete"},{"tag":"forge:plates/lead"}],"results":[{"item":"immersiveengineering:concrete_leaded"}],"conditions":[{"type":"forge:mod_loaded","modid":"immersiveengineering"}]}: Unknown item 'immersiveengineering:concrete'
-[01:33:59] [WARN] Error parsing recipe design_decor:item_application/millstones/special_aluminum_cylinder[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"design_decor:aluminum_boiler"},{"item":"minecraft:pink_dye"}],"results":[{"item":"design_decor:aluminum_boiler_special"}]}: Unknown item 'design_decor:aluminum_boiler'
-[01:33:59] [WARN] Error parsing recipe create:kjs/gtlyzxizsto9zg5bdmn1rh7h[create:mixing]: {"type":"create:mixing","ingredients":[{"fluid":"minecraft:water","amount":1000}],"results":[{"tag":"create:zinc_nugget"}],"heatRequirement":"heated"}: Missing item, expected to find a string
-[01:33:59] [INFO] Added 4 recipes, removed 0 recipes, modified 0 recipes, with 5 failed recipes in 161.1 ms
-[01:34:05] [INFO] Server resource reload complete!
+[11:58:14] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[11:58:14] [INIT] Loaded plugins:
+[11:58:14] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[11:58:14] [INFO] Loaded script server_scripts:custom_copper.js in 0.007 s
+[11:58:14] [INFO] Loaded script server_scripts:custom_netherrack_haunting.js in 0.014 s
+[11:58:14] [INFO] Loaded script server_scripts:custom_tuff.js in 0.0 s
+[11:58:14] [INFO] Loaded script server_scripts:custom_zinc.js in 0.001 s
+[11:58:14] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[11:58:14] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[11:58:14] [INFO] Loaded 5/5 KubeJS server scripts in 0.035 s with 0 errors and 0 warnings
+[11:58:14] [INFO] Scripts loaded
+[11:58:14] [INFO] Initializing recipe event...
+[11:58:19] [INFO] Processing recipes...
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/gold_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/cast_iron_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/brass_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/red_container[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/blue_container[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/copper_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/green_container[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/aluminium_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/industrial_iron_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/andesite_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/capitalism_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/metals/iron/bolt[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/metals/iron/screw[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[11:58:19] [WARN] Failed to parse recipe 'design_decor:stonecutting/cyllinder/zinc_boiler_large[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11:58:19] [INFO] Found 7963 recipes in 113.4 ms
+[11:58:19] [INFO] Posted recipe events in 12.30 ms
+[11:58:19] [WARN] Error parsing recipe createaddition:compat/immersiveengineering/item_application/leaded_concrete[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"immersiveengineering:concrete"},{"tag":"forge:plates/lead"}],"results":[{"item":"immersiveengineering:concrete_leaded"}],"conditions":[{"type":"forge:mod_loaded","modid":"immersiveengineering"}]}: Unknown item 'immersiveengineering:concrete'
+[11:58:19] [WARN] Error parsing recipe design_decor:item_application/millstones/special_aluminum_cylinder[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"design_decor:aluminum_boiler"},{"item":"minecraft:pink_dye"}],"results":[{"item":"design_decor:aluminum_boiler_special"}]}: Unknown item 'design_decor:aluminum_boiler'
+[11:58:19] [WARN] Error parsing recipe createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"immersiveengineering:blastbrick"},{"tag":"forge:plates/steel"}],"results":[{"item":"immersiveengineering:blastbrick_reinforced"}],"conditions":[{"type":"forge:mod_loaded","modid":"immersiveengineering"}]}: Unknown item 'immersiveengineering:blastbrick'
+[11:58:19] [WARN] Error parsing recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"design_decor:aluminum_boiler"},{"item":"minecraft:pink_dye"}],"results":[{"item":"design_decor:aluminum_boiler_special"}]}: Unknown item 'design_decor:aluminum_boiler'
+[11:58:19] [WARN] Error parsing recipe create:kjs/gtlyzxizsto9zg5bdmn1rh7h[create:mixing]: {"type":"create:mixing","ingredients":[{"fluid":"minecraft:water","amount":1000}],"results":[{"tag":"create:zinc_nugget"}],"heatRequirement":"heated"}: Missing item, expected to find a string
+[11:58:19] [INFO] Added 4 recipes, removed 0 recipes, modified 0 recipes, with 5 failed recipes in 64.16 ms
+[11:58:22] [INFO] Server resource reload complete!
