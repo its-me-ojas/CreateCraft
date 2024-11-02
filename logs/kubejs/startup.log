@@ -1,6 +1,6 @@
-[12:33:05] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[12:33:05] [INIT] Loaded plugins:
-[12:33:05] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[12:33:05] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[12:33:05] [INFO] Loaded script startup_scripts:example.js in 0.032 s
-[12:33:05] [INFO] Loaded 1/1 KubeJS startup scripts in 0.221 s with 0 errors and 0 warnings
+[14:19:38] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[14:19:38] [INIT] Loaded plugins:
+[14:19:38] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[14:19:39] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[14:19:39] [INFO] Loaded script startup_scripts:example.js in 0.111 s
+[14:19:39] [INFO] Loaded 1/1 KubeJS startup scripts in 0.574 s with 0 errors and 0 warnings
