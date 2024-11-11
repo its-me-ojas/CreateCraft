@@ -273,6 +273,7 @@
       "the_sea_calls_you": "2024-10-26 17:41:57 +0530",
       "spelunker": "2024-10-29 16:51:55 +0530",
       "nether_root": "2024-10-26 21:18:37 +0530",
+      "remote_getaway": "2024-11-12 01:42:47 +0530",
       "like_a_cat": "2024-10-27 00:11:10 +0530",
       "enchanted_forest": "2024-11-03 04:24:55 +0530",
       "comparing_comparator": "2024-10-26 23:37:00 +0530",
@@ -328,6 +329,7 @@
       "rock_bottom": "2024-10-26 21:11:39 +0530",
       "coal_miner": "2024-10-29 04:36:06 +0530",
       "living_like_kings": "2024-11-02 16:50:21 +0530",
+      "void_walker": "2024-11-12 01:44:10 +0530",
       "gilty": "2024-10-26 21:37:39 +0530",
       "like_a_ninja": "2024-10-29 17:08:07 +0530",
       "ultra_hardcore": "2024-10-26 23:24:07 +0530",
@@ -432,6 +434,7 @@
     "criteria": {
       "warm_ocean": "2024-11-01 00:28:15 +0530",
       "deep_dark": "2024-10-29 16:51:54 +0530",
+      "end_midlands": "2024-11-12 01:44:06 +0530",
       "flower_forest": "2024-11-03 04:24:54 +0530",
       "lush_caves": "2024-10-27 15:28:49 +0530",
       "cold_ocean": "2024-10-28 01:06:00 +0530",
@@ -461,10 +464,13 @@
       "cherry_grove": "2024-11-01 00:11:31 +0530",
       "soul_sand_valley": "2024-10-26 21:18:37 +0530",
       "bamboo_jungle": "2024-11-01 00:26:47 +0530",
+      "small_end_islands": "2024-11-12 01:44:09 +0530",
       "plains": "2024-10-27 15:53:02 +0530",
       "frozen_peaks": "2024-11-01 00:12:54 +0530",
+      "end_highlands": "2024-11-12 01:44:02 +0530",
       "meadow": "2024-10-26 21:06:48 +0530",
       "old_growth_spruce_taiga": "2024-10-28 12:46:35 +0530",
+      "end_barrens": "2024-11-12 01:44:08 +0530",
       "basalt_deltas": "2024-10-26 23:25:14 +0530",
       "taiga": "2024-10-26 19:46:32 +0530",
       "crimson_forest": "2024-11-01 21:49:29 +0530",
@@ -714,6 +720,7 @@
       "andesite_stairs": "2024-10-29 02:45:31 +0530",
       "crimson_roots": "2024-10-26 21:38:43 +0530",
       "mangrove_trapdoor": "2024-10-31 23:53:36 +0530",
+      "deepslate_bricks": "2024-11-12 02:10:12 +0530",
       "cobblestone": "2024-10-26 19:59:26 +0530",
       "bricks": "2024-10-27 21:50:27 +0530",
       "tube_coral": "2024-11-11 02:48:43 +0530",
@@ -3284,6 +3291,7 @@
       "deepslate": "2024-10-29 01:23:39 +0530",
       "deepslate_tiles": "2024-10-29 17:09:08 +0530",
       "deepslate_brick_stairs": "2024-10-29 02:07:02 +0530",
+      "deepslate_bricks": "2024-11-12 02:10:12 +0530",
       "cracked_deepslate_tiles": "2024-10-29 17:09:17 +0530",
       "cobbled_deepslate": "2024-10-26 20:06:32 +0530"
     },
@@ -8253,12 +8261,6 @@
       "shipwreck": "2024-10-27 16:36:28 +0530"
     },
     "done": true
-  },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2024-11-11 04:59:18 +0530"
-    },
-    "done": false
   },
   "vanilla_refresh:player/tick": {
     "criteria": {
@@ -14168,8 +14170,10 @@
       "off_with_his_head": "2024-11-11 04:53:30 +0530",
       "skys_the_limit": "2024-10-30 18:55:38 +0530",
       "end_bricks": "2024-11-11 04:27:15 +0530",
+      "void_walker": "2024-11-12 01:44:10 +0530",
       "free_the_end": "2024-11-11 04:53:23 +0530",
       "root": "2024-11-11 04:19:44 +0530",
+      "remote_getaway": "2024-11-12 01:42:47 +0530",
       "the_next_generation": "2024-11-11 04:55:22 +0530",
       "the_start_of_something": "2024-11-02 18:10:19 +0530"
     },
@@ -15970,163 +15974,25 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-11-11 05:02:14 +0530",
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-11 05:02:02 +0530"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-11-11 04:27:15 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-11-11 04:54:58 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:challenges/endergeddon": {
-    "criteria": {
-      "skeleton": "2024-11-11 04:34:05 +0530",
-      "ender_dragon": "2024-11-11 04:53:22 +0530",
-      "enderman": "2024-11-11 04:21:02 +0530",
-      "zombie": "2024-11-11 04:26:09 +0530"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-11-11 04:54:58 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/bloodthirsty": {
-    "criteria": {
-      "trigger": "2024-11-11 04:50:07 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-11-11 04:27:15 +0530"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end_portal": "2024-11-11 04:19:42 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_end_stone_brick": "2024-11-11 04:27:15 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-11-11 04:54:58 +0530"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2024-11-11 04:22:56 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:end/off_with_his_head": {
-    "criteria": {
-      "chorus_fruit": "2024-11-11 04:53:29 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-11-11 04:54:58 +0530"
+      "entered_end": "2024-11-11 04:19:43 +0530"
     },
     "done": true
   },
   "blazeandcave:end/void_walker": {
     "criteria": {
-      "the_end": "2024-11-11 04:19:44 +0530"
-    },
-    "done": false
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2024-11-11 04:55:22 +0530"
+      "small_end_islands": "2024-11-12 01:44:09 +0530",
+      "end_midlands": "2024-11-12 01:44:06 +0530",
+      "the_end": "2024-11-11 04:19:44 +0530",
+      "end_highlands": "2024-11-12 01:44:02 +0530",
+      "end_barrens": "2024-11-12 01:44:08 +0530"
     },
     "done": true
   },
@@ -16142,15 +16008,31 @@
     },
     "done": true
   },
-  "blazeandcave:end/end_bricks": {
+  "blazeandcave:challenges/endergeddon": {
     "criteria": {
-      "end_stone_bricks": "2024-11-11 04:27:15 +0530"
+      "skeleton": "2024-11-11 04:34:05 +0530",
+      "ender_dragon": "2024-11-11 04:53:22 +0530",
+      "enderman": "2024-11-11 04:21:02 +0530",
+      "zombie": "2024-11-11 04:26:09 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/void_ender": {
+    "criteria": {
+      "ender_dragon": "2024-11-11 04:53:22 +0530",
+      "enderman": "2024-11-11 04:21:02 +0530"
+    },
+    "done": false
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-11-11 04:22:56 +0530"
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "blazeandcave:potion/gas": {
     "criteria": {
-      "killed_dragon": "2024-11-11 04:53:22 +0530"
+      "kill_magic": "2024-11-11 04:22:56 +0530"
     },
     "done": true
   },
@@ -16160,9 +16042,27 @@
     },
     "done": true
   },
-  "blazeandcave:potion/gas": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "kill_magic": "2024-11-11 04:22:56 +0530"
+      "has_end_stone_bricks": "2024-11-11 04:27:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-11 04:27:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-11 04:27:15 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:end/end_bricks": {
+    "criteria": {
+      "end_stone_bricks": "2024-11-11 04:27:15 +0530"
     },
     "done": true
   },
@@ -16184,22 +16084,231 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "blazeandcave:statistics/bloodthirsty": {
     "criteria": {
-      "entered_end": "2024-11-11 04:19:43 +0530"
+      "trigger": "2024-11-11 04:50:07 +0530"
     },
     "done": true
   },
-  "blazeandcave:monsters/void_ender": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "ender_dragon": "2024-11-11 04:53:22 +0530",
-      "enderman": "2024-11-11 04:21:02 +0530"
+      "killed_dragon": "2024-11-11 04:53:22 +0530"
     },
-    "done": false
+    "done": true
+  },
+  "blazeandcave:end/off_with_his_head": {
+    "criteria": {
+      "chorus_fruit": "2024-11-11 04:53:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-11 04:54:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-11 04:54:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-11-11 04:54:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-11 04:54:58 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-11 04:54:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-11-11 04:55:22 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2024-11-12 01:52:42 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-12 02:51:44 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:location/the_outer_end": {
+    "criteria": {
+      "entered_end_gateway": "2024-11-12 01:42:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "end_gateway": "2024-11-12 01:42:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/portable_fuel_interface": {
+    "criteria": {
+      "has_item": "2024-11-12 02:47:00 +0530"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2024-11-12 01:45:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-11-12 02:10:12 +0530"
     },
     "done": true
   },
