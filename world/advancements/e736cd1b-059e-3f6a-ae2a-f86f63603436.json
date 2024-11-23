@@ -92,6 +92,7 @@
       "getting_wood": "2024-10-26 17:39:36 +0530",
       "no_chain_no_gain": "2024-10-26 21:37:39 +0530",
       "return_to_sender": "2024-10-27 13:33:29 +0530",
+      "lucky_break": "2024-11-23 13:12:00 +0530",
       "acquire_hardware": "2024-10-26 20:17:14 +0530",
       "hive_mind": "2024-10-29 05:50:58 +0530",
       "egging_dude": "2024-11-02 18:21:51 +0530",
@@ -117,6 +118,8 @@
       "blast_shield": "2024-10-27 18:09:23 +0530",
       "time_to_strike": "2024-10-26 19:57:14 +0530",
       "leveraging_synergy": "2024-10-28 00:35:41 +0530",
+      "whats_up_doc": "2024-11-23 16:51:28 +0530",
+      "the_world_is_ending": "2024-11-23 12:31:58 +0530",
       "smooth_dude": "2024-10-28 20:04:42 +0530",
       "barking_mad": "2024-11-01 22:08:39 +0530",
       "into_fire": "2024-10-27 00:23:03 +0530",
@@ -168,6 +171,7 @@
       "laser_sharks": "2024-10-31 23:23:56 +0530",
       "the_sound_of_silence": "2024-10-29 17:34:42 +0530",
       "the_deep_end": "2024-11-02 19:41:53 +0530",
+      "milk_does_your_body_good": "2024-11-23 12:47:24 +0530",
       "quicksand": "2024-10-26 21:23:45 +0530",
       "you_need_a_mint": "2024-11-11 04:22:56 +0530",
       "burnt_right_into_your_soul": "2024-10-27 13:31:24 +0530",
@@ -206,6 +210,7 @@
       "not_today_thank_you": "2024-10-26 20:01:38 +0530",
       "cowboy": "2024-10-27 15:58:18 +0530",
       "local_brewery": "2024-11-01 15:57:19 +0530",
+      "tripping_over": "2024-11-23 16:54:42 +0530",
       "spooky_skulls": "2024-10-27 18:04:52 +0530",
       "ew_ew_ew": "2024-10-26 20:03:46 +0530",
       "kilometre_walk": "2024-10-26 19:47:12 +0530",
@@ -305,6 +310,7 @@
       "out_for_a_stroll": "2024-10-27 14:02:29 +0530",
       "poison_dart": "2024-11-11 02:39:14 +0530",
       "zombie_apocalypse": "2024-10-28 22:01:32 +0530",
+      "yum_yum_yummo": "2024-11-23 12:43:33 +0530",
       "zombie_slayer": "2024-10-29 01:27:09 +0530",
       "for_you_my_sweet": "2024-10-27 16:28:02 +0530",
       "captain_etho": "2024-10-28 01:00:15 +0530",
@@ -439,6 +445,7 @@
       "laps_in_the_pool": "2024-10-29 18:30:32 +0530",
       "lead_the_way": "2024-10-27 16:10:35 +0530",
       "feeling_sheepish": "2024-10-27 16:32:15 +0530",
+      "dive_bomb": "2024-11-23 13:06:12 +0530",
       "hells_bells": "2024-11-01 21:55:59 +0530",
       "dolphin_dasher": "2024-11-03 04:14:59 +0530"
     },
@@ -1084,6 +1091,7 @@
       "netherite_scrap": "2024-10-27 21:56:05 +0530",
       "light_gray_dye": "2024-10-28 00:18:25 +0530",
       "ender_eye": "2024-10-28 00:34:15 +0530",
+      "milk_bucket": "2024-11-23 12:26:56 +0530",
       "stone_sword": "2024-10-27 00:21:53 +0530",
       "diamond_leggings": "2024-10-26 20:32:06 +0530",
       "iron_boots": "2024-10-28 22:02:30 +0530",
@@ -1244,6 +1252,7 @@
       "golden_chestplate": "2024-10-27 15:49:47 +0530",
       "netherite_leggings": "2024-11-01 16:35:28 +0530",
       "netherite_chestplate": "2024-10-27 01:03:23 +0530",
+      "fishing_rod": "2024-11-23 16:46:56 +0530",
       "quartz": "2024-10-26 23:30:47 +0530",
       "raw_copper": "2024-10-26 20:03:28 +0530",
       "beetroot": "2024-10-28 00:47:40 +0530",
@@ -1290,6 +1299,7 @@
       "golden_helmet": "2024-10-26 21:44:28 +0530",
       "stone_axe": "2024-10-27 01:51:17 +0530",
       "redstone": "2024-10-29 20:06:43 +0530",
+      "milk_bucket": "2024-11-23 12:26:56 +0530",
       "stone_sword": "2024-10-27 00:21:53 +0530",
       "diamond_leggings": "2024-10-26 20:32:06 +0530",
       "iron_boots": "2024-10-28 22:02:30 +0530",
@@ -1387,6 +1397,7 @@
       "golden_chestplate": "2024-10-27 15:49:47 +0530",
       "netherite_leggings": "2024-11-01 16:35:28 +0530",
       "netherite_chestplate": "2024-10-27 01:03:23 +0530",
+      "fishing_rod": "2024-11-23 16:46:56 +0530",
       "quartz": "2024-10-27 00:04:46 +0530",
       "raw_copper": "2024-10-26 20:37:18 +0530",
       "diamond": "2024-10-30 07:03:50 +0530",
@@ -1423,6 +1434,7 @@
       "boaty_mcboatface": "2024-10-26 23:31:29 +0530",
       "the_great_blocky_reef": "2024-11-01 00:28:16 +0530",
       "enchanted_forest": "2024-11-03 04:24:55 +0530",
+      "dive_bomb": "2024-11-23 13:06:12 +0530",
       "barbearian": "2024-10-31 23:01:25 +0530",
       "ahoy": "2024-10-27 16:36:30 +0530",
       "dolphin_dasher": "2024-11-03 04:14:59 +0530"
@@ -1533,6 +1545,7 @@
       "crafting_a_new_look": "2024-11-10 23:53:31 +0530",
       "overpowered": "2024-10-27 18:01:26 +0530",
       "now_youre_thinking_with_portals": "2024-10-26 19:46:14 +0530",
+      "whats_up_doc": "2024-11-23 16:51:28 +0530",
       "if_only_cats_grew_into_kittens": "2024-10-27 17:28:48 +0530",
       "laser_sharks": "2024-10-31 23:23:56 +0530",
       "the_sound_of_silence": "2024-10-29 17:34:42 +0530",
@@ -1657,6 +1670,7 @@
       "aww_it_broke": "2024-10-27 02:11:00 +0530",
       "youll_never_take_me_alive_copper": "2024-10-27 12:12:16 +0530",
       "whats_the_time_mr_wolf": "2024-10-27 01:02:12 +0530",
+      "lucky_break": "2024-11-23 13:12:00 +0530",
       "shriek_forever_after": "2024-10-29 16:58:34 +0530",
       "acquire_hardware": "2024-10-26 20:17:14 +0530",
       "dungeons_and_spawners": "2024-10-27 18:17:35 +0530",
@@ -1888,6 +1902,7 @@
       "sweeping3_book": "2024-10-27 00:05:09 +0530",
       "bane_of_arthropods5_book": "2024-10-27 19:35:49 +0530",
       "projectile_protection1": "2024-11-14 04:31:20 +0530",
+      "projectile_protection2": "2024-11-23 12:22:23 +0530",
       "multishot_book": "2024-10-26 23:39:05 +0530",
       "fire_protection1": "2024-11-14 04:31:37 +0530",
       "power5": "2024-10-29 22:14:21 +0530",
@@ -1943,6 +1958,7 @@
       "soul_speed3_book": "2024-10-30 12:49:55 +0530",
       "looting3_book": "2024-11-01 23:03:49 +0530",
       "aqua_affinity": "2024-10-29 15:44:00 +0530",
+      "feather_falling2_book": "2024-11-23 13:11:59 +0530",
       "respiration3_book": "2024-11-01 21:10:41 +0530",
       "frost_walker2_book": "2024-10-27 00:04:34 +0530",
       "swift_sneak1_book": "2024-10-29 17:08:06 +0530",
@@ -1991,6 +2007,7 @@
       "bling_plate": "2024-10-26 19:46:17 +0530",
       "under_pressure": "2024-10-27 00:03:22 +0530",
       "sticky_parts": "2024-10-27 12:23:07 +0530",
+      "tripping_over": "2024-11-23 16:54:42 +0530",
       "quirky_quartz": "2024-10-26 23:30:48 +0530",
       "click": "2024-10-27 14:14:29 +0530",
       "repeating_repeater": "2024-10-26 23:37:01 +0530",
@@ -2081,6 +2098,7 @@
       "cowboy": "2024-10-27 15:58:18 +0530",
       "leader_of_the_pack": "2024-10-27 15:24:42 +0530",
       "direct_fishing": "2024-10-27 15:29:33 +0530",
+      "milk_does_your_body_good": "2024-11-23 12:47:24 +0530",
       "high_steaks": "2024-10-29 16:29:41 +0530",
       "glow_and_behold": "2024-11-01 18:35:06 +0530",
       "bacon": "2024-11-04 22:52:06 +0530",
@@ -2442,6 +2460,7 @@
       "passing_the_time": "2024-10-29 21:32:25 +0530",
       "the_first_night": "2024-10-26 19:50:06 +0530",
       "horse_training": "2024-10-27 16:02:51 +0530",
+      "yum_yum_yummo": "2024-11-23 12:43:33 +0530",
       "take_to_the_skies": "2024-11-14 00:31:06 +0530",
       "overlevelling": "2024-10-30 05:08:42 +0530",
       "root": "2024-10-26 19:50:07 +0530",
@@ -11640,6 +11659,7 @@
   },
   "blazeandcave:bacap/challenges_milestone": {
     "criteria": {
+      "the_world_is_ending": "2024-11-23 12:31:58 +0530",
       "zombie_apocalypse": "2024-10-28 22:01:32 +0530",
       "root": "2024-10-28 22:01:33 +0530"
     },
@@ -16430,12 +16450,6 @@
     },
     "done": true
   },
-  "blazeandcave:technical/fail_dragon_vs": {
-    "criteria": {
-      "enter_water": "2024-11-14 01:44:46 +0530"
-    },
-    "done": true
-  },
   "blazeandcave:mining/budget_channeling": {
     "criteria": {
       "lightning_rod": "2024-11-14 01:52:02 +0530"
@@ -16451,12 +16465,6 @@
   "farmersdelight:recipes/decorations/bamboo_cabinet": {
     "criteria": {
       "has_bamboo_trapdoor": "2024-11-14 01:54:37 +0530"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-11-14 02:07:09 +0530"
     },
     "done": true
   },
@@ -16713,95 +16721,215 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2024-11-23 11:57:31 +0530"
-    },
-    "done": false
-  },
-  "blazeandcave:technical/unending_hell_end": {
-    "criteria": {
-      "unending_hell_end": "2024-11-23 11:57:32 +0530"
-    },
-    "done": true
-  },
   "blazeandcave:nether/the_struggle_nether_ends": {
     "criteria": {
       "soul_sand": "2024-11-23 11:38:30 +0530"
     },
     "done": false
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-11-23 12:26:56 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/the_world_is_ending": {
+    "criteria": {
+      "ten_withers": "2024-11-23 12:31:57 +0530"
+    },
+    "done": true
+  },
+  "wither_rework:nether/obtain_nether_star": {
+    "criteria": {
+      "requirement": "2024-11-23 12:36:44 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/yum_yum_yummo": {
+    "criteria": {
+      "trigger": "2024-11-23 12:43:33 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/milk_does_your_body_good": {
+    "criteria": {
+      "milk_bucket": "2024-11-23 12:47:23 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2024-11-23 13:01:43 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2024-11-23 13:04:07 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/lush_caves": {
+    "criteria": {
+      "requirement": "2024-11-23 13:04:17 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/dive_bomb": {
+    "criteria": {
+      "dive_bomb": "2024-11-23 13:06:11 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/lucky_break": {
+    "criteria": {
+      "lucky_break": "2024-11-23 13:11:59 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-11-23 13:25:53 +0530"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-23 12:03:21 +0530"
+      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
     },
     "done": false
+  },
+  "blazeandcave:technical/riddle_third_line": {
+    "criteria": {
+      "dinnerbone": "2024-11-23 16:51:39 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_fourth_line": {
+    "criteria": {
+      "fourth_line_bamboo_jungle": "2024-11-23 16:55:51 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_sixth_line": {
+    "criteria": {
+      "sixth_line": "2024-11-23 17:04:14 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_second_line": {
+    "criteria": {
+      "drowned": "2024-11-23 16:50:08 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/whats_up_doc": {
+    "criteria": {
+      "name_tag": "2024-11-23 16:51:28 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/tripping_over": {
+    "criteria": {
+      "tripwire_hook": "2024-11-23 16:54:42 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_seventh_line": {
+    "criteria": {
+      "seventh_line": "2024-11-23 17:16:28 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_first_line": {
+    "criteria": {
+      "first_line": "2024-11-23 16:45:49 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/riddle_me_this": {
+    "criteria": {
+      "second_line": "2024-11-23 16:50:08 +0530",
+      "third_line": "2024-11-23 16:51:39 +0530",
+      "first_line": "2024-11-23 16:45:50 +0530",
+      "fourth_line": "2024-11-23 16:55:51 +0530",
+      "fifth_line": "2024-11-23 16:58:58 +0530",
+      "sixth_line": "2024-11-23 17:04:15 +0530",
+      "seventh_line": "2024-11-23 17:16:28 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/riddle_fifth_line": {
+    "criteria": {
+      "fifth_line": "2024-11-23 16:58:57 +0530"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
