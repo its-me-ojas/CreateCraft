@@ -16793,120 +16793,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:45 +0530"
-    },
-    "done": false
-  },
-  "blazeandcave:technical/riddle_third_line": {
-    "criteria": {
-      "dinnerbone": "2024-11-23 16:51:39 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_fourth_line": {
-    "criteria": {
-      "fourth_line_bamboo_jungle": "2024-11-23 16:55:51 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_sixth_line": {
-    "criteria": {
-      "sixth_line": "2024-11-23 17:04:14 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_second_line": {
-    "criteria": {
-      "drowned": "2024-11-23 16:50:08 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/whats_up_doc": {
-    "criteria": {
-      "name_tag": "2024-11-23 16:51:28 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/tripping_over": {
-    "criteria": {
-      "tripwire_hook": "2024-11-23 16:54:42 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_seventh_line": {
-    "criteria": {
-      "seventh_line": "2024-11-23 17:16:28 +0530"
-    },
-    "done": true
-  },
   "blazeandcave:technical/riddle_first_line": {
     "criteria": {
       "first_line": "2024-11-23 16:45:49 +0530"
@@ -16925,11 +16811,125 @@
     },
     "done": false
   },
+  "blazeandcave:technical/riddle_second_line": {
+    "criteria": {
+      "drowned": "2024-11-23 16:50:08 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/whats_up_doc": {
+    "criteria": {
+      "name_tag": "2024-11-23 16:51:28 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_third_line": {
+    "criteria": {
+      "dinnerbone": "2024-11-23 16:51:39 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/tripping_over": {
+    "criteria": {
+      "tripwire_hook": "2024-11-23 16:54:42 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_fourth_line": {
+    "criteria": {
+      "fourth_line_bamboo_jungle": "2024-11-23 16:55:51 +0530"
+    },
+    "done": true
+  },
   "blazeandcave:technical/riddle_fifth_line": {
     "criteria": {
       "fifth_line": "2024-11-23 16:58:57 +0530"
     },
     "done": true
+  },
+  "blazeandcave:technical/riddle_sixth_line": {
+    "criteria": {
+      "sixth_line": "2024-11-23 17:04:14 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_seventh_line": {
+    "criteria": {
+      "seventh_line": "2024-11-23 17:16:28 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

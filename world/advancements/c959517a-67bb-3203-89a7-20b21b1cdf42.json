@@ -205,6 +205,7 @@
       "nugget_in_a_biscuit": "2024-10-29 03:06:21 +0530",
       "spring_in_your_step": "2024-10-26 19:31:54 +0530",
       "blast_shield": "2024-10-26 20:47:42 +0530",
+      "supersonic": "2024-12-18 00:07:57 +0530",
       "time_to_strike": "2024-10-26 18:54:05 +0530",
       "leveraging_synergy": "2024-10-26 19:26:25 +0530",
       "the_world_is_ending": "2024-11-23 12:31:58 +0530",
@@ -351,6 +352,7 @@
       "this_snow_is_snowier": "2024-11-02 11:49:25 +0530",
       "bamboom": "2024-11-11 01:31:51 +0530",
       "camping_out": "2024-10-28 22:47:03 +0530",
+      "sky_high": "2024-12-18 00:07:10 +0530",
       "change_of_sheets": "2024-10-26 19:49:53 +0530",
       "enderman_destroyer": "2024-11-11 04:49:31 +0530",
       "sticky_parts": "2024-10-27 12:17:38 +0530",
@@ -541,6 +543,7 @@
       "sheriff_firearm": "2024-10-27 18:08:33 +0530",
       "spring_in_your_step": "2024-10-26 19:31:54 +0530",
       "who_needs_boats": "2024-11-01 21:23:52 +0530",
+      "supersonic": "2024-12-18 00:07:57 +0530",
       "loot_em": "2024-10-26 19:23:22 +0530",
       "scourge_of_the_west": "2024-10-29 21:40:16 +0530",
       "out_for_a_stroll": "2024-10-27 17:54:02 +0530",
@@ -6612,6 +6615,7 @@
       "night_vision": "2024-11-02 17:23:14 +0530",
       "poison": "2024-10-27 14:53:30 +0530",
       "absorption": "2024-11-11 00:41:44 +0530",
+      "blindness": "2024-12-17 23:37:45 +0530",
       "slowness": "2024-10-28 20:30:26 +0530",
       "fire_resistance": "2024-11-01 16:02:11 +0530",
       "resistance": "2024-11-11 03:01:01 +0530",
@@ -13713,6 +13717,7 @@
   },
   "blazeandcave:bacap/end_milestone": {
     "criteria": {
+      "sky_high": "2024-12-18 00:07:10 +0530",
       "skys_the_limit": "2024-11-14 00:07:35 +0530",
       "end_bricks": "2024-11-11 04:43:57 +0530",
       "void_walker": "2024-11-13 23:53:58 +0530",
@@ -15015,136 +15020,9 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-11-23 17:08:36 +0530"
-    },
-    "done": true
-  },
   "blazeandcave:adventure/mold_maker": {
     "criteria": {
       "netherite_upgrade": "2024-11-23 16:38:38 +0530"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-23 17:17:44 +0530"
-    },
-    "done": false
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2024-11-23 16:41:49 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_third_line": {
-    "criteria": {
-      "dinnerbone": "2024-11-23 16:51:34 +0530"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/goggle_netherite_helmet": {
-    "criteria": {
-      "has_helmet": "2024-11-23 16:41:49 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_fourth_line": {
-    "criteria": {
-      "fourth_line_bamboo_jungle": "2024-11-23 16:55:33 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/riddle_sixth_line": {
-    "criteria": {
-      "sixth_line": "2024-11-23 17:04:46 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/moar_upgraded_tools": {
-    "criteria": {
-      "netherite_pickaxe": "2024-11-23 16:41:57 +0530",
-      "netherite_axe": "2024-11-23 16:42:02 +0530"
-    },
-    "done": false
-  },
-  "blazeandcave:nether/glows_in_the_dark": {
-    "criteria": {
-      "spectral_arrow": "2024-11-23 16:58:18 +0530"
-    },
-    "done": true
-  },
-  "blazeandcave:weaponry/egging_dude": {
-    "criteria": {
-      "egg": "2024-11-23 17:04:46 +0530"
     },
     "done": true
   },
@@ -15163,15 +15041,15 @@
     },
     "done": true
   },
-  "blazeandcave:technical/riddle_seventh_line": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
-      "seventh_line": "2024-11-23 17:14:53 +0530"
+      "has_item": "2024-11-23 16:41:49 +0530"
     },
     "done": true
   },
-  "blazeandcave:potion/poison_dart": {
+  "creategoggles:recipes/goggle_netherite_helmet": {
     "criteria": {
-      "normal_poison": "2024-11-23 16:54:42 +0530"
+      "has_helmet": "2024-11-23 16:41:49 +0530"
     },
     "done": true
   },
@@ -15181,9 +15059,149 @@
     },
     "done": true
   },
+  "blazeandcave:nether/moar_upgraded_tools": {
+    "criteria": {
+      "netherite_pickaxe": "2024-11-23 16:41:57 +0530",
+      "netherite_axe": "2024-11-23 16:42:02 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/riddle_third_line": {
+    "criteria": {
+      "dinnerbone": "2024-11-23 16:51:34 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/poison_dart": {
+    "criteria": {
+      "normal_poison": "2024-11-23 16:54:42 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_fourth_line": {
+    "criteria": {
+      "fourth_line_bamboo_jungle": "2024-11-23 16:55:33 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/glows_in_the_dark": {
+    "criteria": {
+      "spectral_arrow": "2024-11-23 16:58:18 +0530"
+    },
+    "done": true
+  },
   "blazeandcave:technical/riddle_fifth_line": {
     "criteria": {
       "fifth_line": "2024-11-23 16:58:57 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_sixth_line": {
+    "criteria": {
+      "sixth_line": "2024-11-23 17:04:46 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/egging_dude": {
+    "criteria": {
+      "egg": "2024-11-23 17:04:46 +0530"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-12-18 00:15:29 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/riddle_seventh_line": {
+    "criteria": {
+      "seventh_line": "2024-11-23 17:14:53 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-18 00:21:06 +0530",
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 00:20:39 +0530"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/supersonic": {
+    "criteria": {
+      "trigger": "2024-12-18 00:07:56 +0530"
+    },
+    "done": true
+  },
+  "blazeandcave:end/sky_high": {
+    "criteria": {
+      "world_height": "2024-12-18 00:07:09 +0530"
     },
     "done": true
   },
